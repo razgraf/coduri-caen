@@ -1,0 +1,4824 @@
+[
+  {
+    "section": "A",
+    "name": "Agricultură, silvicultură și pescuit",
+    "codes": [
+      {
+        "type": "1",
+        "code": "011",
+        "name": "Cultivarea plantelor nepermanente"
+      },
+      {
+        "type": "1",
+        "code": "0111",
+        "name": "Cultivarea cerealelor (excluzând orezul), plantelor leguminoase și a plantelor oleaginoase"
+      },
+      {
+        "type": "1",
+        "code": "0112",
+        "name": "Cultivarea orezului"
+      },
+      {
+        "type": "1",
+        "code": "0113",
+        "name": "Cultivarea legumelor și a pepenilor, a rădăcinoaselor și tuberculiferelor"
+      },
+      {
+        "type": "1",
+        "code": "0114",
+        "name": "Cultivarea trestiei de zahăr"
+      },
+      {
+        "type": "1",
+        "code": "0115",
+        "name": "Cultivarea tutunului"
+      },
+      {
+        "type": "1",
+        "code": "0116",
+        "name": "Cultivarea plantelor pentru fibre textile"
+      },
+      {
+        "type": "1",
+        "code": "0119",
+        "name": "Cultivarea altor plante din culturi nepermanente"
+      },
+      {
+        "type": "1",
+        "code": "012",
+        "name": "Cultivarea plantelor din culturi permanente"
+      },
+      {
+        "type": "1",
+        "code": "0121",
+        "name": "Cultivarea strugurilor"
+      },
+      {
+        "type": "1",
+        "code": "0122",
+        "name": "Cultivarea fructelor tropicale și subtropicale"
+      },
+      {
+        "type": "1",
+        "code": "0123",
+        "name": "Cultivarea fructelor citrice"
+      },
+      {
+        "type": "1",
+        "code": "0124",
+        "name": "Cultivarea fructelor semințoase și sâmburoase"
+      },
+      {
+        "type": "1",
+        "code": "0125",
+        "name": "Cultivarea altor pomi fructiferi, a arbuștilor fructiferi, căpșunilor și a nuciferelor"
+      },
+      {
+        "type": "1",
+        "code": "0126",
+        "name": "Cultivarea fructelor oleaginoase"
+      },
+      {
+        "type": "1",
+        "code": "0127",
+        "name": "Cultivarea plantelor pentru prepararea băuturilor"
+      },
+      {
+        "type": "1",
+        "code": "0128",
+        "name": "Cultivarea condimentelor, plantelor aromatice, medicinale și a plantelor de uz farmaceutic"
+      },
+      {
+        "type": "1",
+        "code": "0129",
+        "name": "Cultivarea altor plante permanente"
+      },
+      {
+        "type": "1",
+        "code": "013",
+        "name": "Cultivarea plantelor pentru înmulțire"
+      },
+      {
+        "type": "1",
+        "code": "0130",
+        "name": "Cultivarea plantelor pentru înmulțire"
+      },
+      {
+        "type": "1",
+        "code": "014",
+        "name": "Creșterea animalelor"
+      },
+      {
+        "type": "1",
+        "code": "0141",
+        "name": "Creșterea bovinelor de lapte"
+      },
+      {
+        "type": "1",
+        "code": "0142",
+        "name": "Creșterea altor bovine"
+      },
+      {
+        "type": "1",
+        "code": "0143",
+        "name": "Creșterea cailor și a altor cabaline"
+      },
+      {
+        "type": "1",
+        "code": "0144",
+        "name": "Creșterea cămilelor și a camelidelor"
+      },
+      {
+        "type": "1",
+        "code": "0145",
+        "name": "Creșterea ovinelor și caprinelor"
+      },
+      {
+        "type": "1",
+        "code": "0146",
+        "name": "Creșterea porcinelor"
+      },
+      {
+        "type": "1",
+        "code": "0147",
+        "name": "Creșterea păsărilor"
+      },
+      {
+        "type": "1",
+        "code": "0148",
+        "name": "Creșterea altor animale"
+      },
+      {
+        "type": "1",
+        "code": "015",
+        "name": "Activități în ferme mixte (cultura vegetală combinată cu creșterea animalelor)"
+      },
+      {
+        "type": "1",
+        "code": "0150",
+        "name": "Activități în ferme mixte (cultura vegetală combinată cu creșterea animalelor)"
+      },
+      {
+        "type": "1",
+        "code": "016",
+        "name": "Activități auxiliare agriculturii și activități după recoltare"
+      },
+      {
+        "type": "1",
+        "code": "0161",
+        "name": "Activități auxiliare pentru producția vegetală"
+      },
+      {
+        "type": "1",
+        "code": "0162",
+        "name": "Activități auxiliare pentru creșterea animalelor"
+      },
+      {
+        "type": "1",
+        "code": "0163",
+        "name": "Activități după recoltare și pregătirea semințelor"
+      },
+      {
+        "type": "1",
+        "code": "017",
+        "name": "Vânătoare, capturarea cu capcane a vânatului și activități de servicii anexe vânătorii"
+      },
+      {
+        "type": "1",
+        "code": "0170",
+        "name": "Vânătoare, capturarea cu capcane a vânatului și activități de servicii anexe vânătorii"
+      },
+      {
+        "type": "1",
+        "code": "021",
+        "name": "Silvicultură și alte activități forestiere"
+      },
+      {
+        "type": "1",
+        "code": "0210",
+        "name": "Silvicultură și alte activități forestiere"
+      },
+      {
+        "type": "1",
+        "code": "022",
+        "name": "Exploatarea forestieră"
+      },
+      {
+        "type": "1",
+        "code": "0220",
+        "name": "Exploatarea forestieră"
+      },
+      {
+        "type": "1",
+        "code": "023",
+        "name": "Colectarea produselor forestiere nelemnoase din flora spontană"
+      },
+      {
+        "type": "1",
+        "code": "0230",
+        "name": "Colectarea produselor forestiere nelemnoase din flora spontană"
+      },
+      {
+        "type": "1",
+        "code": "024",
+        "name": "Activități de servicii anexe silviculturii"
+      },
+      {
+        "type": "1",
+        "code": "0240",
+        "name": "Activități de servicii anexe silviculturii"
+      },
+      {
+        "type": "1",
+        "code": "031",
+        "name": "Pescuitul"
+      },
+      {
+        "type": "1",
+        "code": "0311",
+        "name": "Pescuitul maritim"
+      },
+      {
+        "type": "1",
+        "code": "0312",
+        "name": "Pescuitul în ape dulci"
+      },
+      {
+        "type": "1",
+        "code": "032",
+        "name": "Acvacultura"
+      },
+      {
+        "type": "1",
+        "code": "0321",
+        "name": "Acvacultura maritimă"
+      },
+      {
+        "type": "1",
+        "code": "0322",
+        "name": "Acvacultura în ape dulci"
+      },
+      {
+        "type": "1",
+        "code": "033",
+        "name": "Activități anexe pescuitului și acvaculturii"
+      },
+      {
+        "type": "1",
+        "code": "0330",
+        "name": "Activități anexe pescuitului și acvaculturii"
+      }
+    ]
+  },
+  {
+    "section": "B",
+    "name": "Industria extractivă",
+    "codes": [
+      {
+        "type": "1",
+        "code": "051",
+        "name": "Extracția cărbunelui superior (PCS => 23865 kJ/kg)"
+      },
+      {
+        "type": "1",
+        "code": "0510",
+        "name": "Extracția cărbunelui superior (PCS => 23865 kJ/kg)"
+      },
+      {
+        "type": "1",
+        "code": "052",
+        "name": "Extracția cărbunelui inferior (PCS < 23865 kJ/kg)"
+      },
+      {
+        "type": "1",
+        "code": "0520",
+        "name": "Extracția cărbunelui inferior (PCS < 23865 kJ/kg)"
+      },
+      {
+        "type": "1",
+        "code": "061",
+        "name": "Extracția petrolului brut"
+      },
+      {
+        "type": "1",
+        "code": "0610",
+        "name": "Extracția petrolului brut"
+      },
+      {
+        "type": "1",
+        "code": "062",
+        "name": "Extracția gazelor naturale"
+      },
+      {
+        "type": "1",
+        "code": "0620",
+        "name": "Extracția gazelor naturale"
+      },
+      {
+        "type": "1",
+        "code": "071",
+        "name": "Extracția minereurilor feroase"
+      },
+      {
+        "type": "1",
+        "code": "0710",
+        "name": "Extracția minereurilor feroase"
+      },
+      {
+        "type": "1",
+        "code": "072",
+        "name": "Extracția minereurilor metalifere neferoase"
+      },
+      {
+        "type": "1",
+        "code": "0721",
+        "name": "Extracția minereurilor de uraniu și toriu"
+      },
+      {
+        "type": "1",
+        "code": "0729",
+        "name": "Extracția altor minereuri metalifere neferoase"
+      },
+      {
+        "type": "1",
+        "code": "081",
+        "name": "Extracția pietrei, nisipului și argilei"
+      },
+      {
+        "type": "1",
+        "code": "0811",
+        "name": "Extracția pietrei ornamentale și a pietrei pentru construcții, extracția pietrei calcaroase, ghipsului, cretei și a ardeziei"
+      },
+      {
+        "type": "1",
+        "code": "0812",
+        "name": "Extracția pietrișului și nisipului; extracția argilei și caolinului"
+      },
+      {
+        "type": "1",
+        "code": "089",
+        "name": "Alte activități extractive n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "0891",
+        "name": "Extracția mineralelor pentru industria chimică și a îngrășămintelor naturale"
+      },
+      {
+        "type": "1",
+        "code": "0892",
+        "name": "Extracția turbei"
+      },
+      {
+        "type": "1",
+        "code": "0893",
+        "name": "Extracția sării"
+      },
+      {
+        "type": "1",
+        "code": "0899",
+        "name": "Alte activități extractive n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "091",
+        "name": "Activități de servicii anexe extracției petrolului brut și gazelor naturale"
+      },
+      {
+        "type": "1",
+        "code": "0910",
+        "name": "Activități de servicii anexe extracției petrolului brut și gazelor naturale"
+      },
+      {
+        "type": "1",
+        "code": "099",
+        "name": "Activități de servicii anexe pentru extracția mineralelor"
+      },
+      {
+        "type": "1",
+        "code": "0990",
+        "name": "Activități de servicii anexe pentru extracția mineralelor"
+      }
+    ]
+  },
+  {
+    "section": "C",
+    "name": "Industria prelucrătoare",
+    "codes": [
+      {
+        "type": "1",
+        "code": "101",
+        "name": "Producția, prelucrarea și conservarea cărnii și a produselor din carne"
+      },
+      {
+        "type": "1",
+        "code": "1011",
+        "name": "Prelucrarea și conservarea cărnii"
+      },
+      {
+        "type": "1",
+        "code": "1012",
+        "name": "Prelucrarea și conservarea cărnii de pasăre"
+      },
+      {
+        "type": "1",
+        "code": "1013",
+        "name": "Fabricarea produselor din carne (inclusiv din carne de pasăre)"
+      },
+      {
+        "type": "1",
+        "code": "102",
+        "name": "Prelucrarea și conservarea peștelui, crustaceelor și moluștelor"
+      },
+      {
+        "type": "1",
+        "code": "1020",
+        "name": "Prelucrarea și conservarea peștelui, crustaceelor și moluștelor"
+      },
+      {
+        "type": "1",
+        "code": "103",
+        "name": "Prelucrarea și conservarea fructelor și legumelor"
+      },
+      {
+        "type": "1",
+        "code": "1031",
+        "name": "Prelucrarea și conservarea cartofilor"
+      },
+      {
+        "type": "1",
+        "code": "1032",
+        "name": "Fabricarea sucurilor de fructe și legume"
+      },
+      {
+        "type": "1",
+        "code": "1039",
+        "name": "Prelucrarea și conservarea fructelor și legumelor n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "104",
+        "name": "Fabricarea uleiurilor și a grăsimilor vegetale și animale"
+      },
+      {
+        "type": "1",
+        "code": "1041",
+        "name": "Fabricarea uleiurilor și grăsimilor"
+      },
+      {
+        "type": "1",
+        "code": "1042",
+        "name": "Fabricarea margarinei și a altor produse comestibile similare"
+      },
+      {
+        "type": "1",
+        "code": "105",
+        "name": "Fabricarea produselor lactate"
+      },
+      {
+        "type": "1",
+        "code": "1051",
+        "name": "Fabricarea produselor lactate și a brânzeturilor"
+      },
+      {
+        "type": "1",
+        "code": "1052",
+        "name": "Fabricarea înghețatei"
+      },
+      {
+        "type": "1",
+        "code": "106",
+        "name": "Fabricarea produselor de morărit, a amidonului și produselor din amidon"
+      },
+      {
+        "type": "1",
+        "code": "1061",
+        "name": "Fabricarea produselor de morărit"
+      },
+      {
+        "type": "1",
+        "code": "1062",
+        "name": "Fabricarea amidonului și a produselor din amidon"
+      },
+      {
+        "type": "1",
+        "code": "107",
+        "name": "Fabricarea produselor de brutărie și a produselor făinoase"
+      },
+      {
+        "type": "1",
+        "code": "1071",
+        "name": "Fabricarea pâinii; fabricarea prăjiturilor și a produselor proaspete de patiserie"
+      },
+      {
+        "type": "1",
+        "code": "1072",
+        "name": "Fabricarea biscuiților și pișcoturilor; fabricarea prăjiturilor și a produselor conservate de patiserie"
+      },
+      {
+        "type": "1",
+        "code": "1073",
+        "name": "Fabricarea macaroanelor, tăiețeilor, cușcușului și a altor produse făinoase similare"
+      },
+      {
+        "type": "1",
+        "code": "108",
+        "name": "Fabricarea altor produse alimentare"
+      },
+      {
+        "type": "1",
+        "code": "1081",
+        "name": "Fabricarea zahărului"
+      },
+      {
+        "type": "1",
+        "code": "1082",
+        "name": "Fabricarea produselor din cacao, a ciocolatei și a produselor zaharoase"
+      },
+      {
+        "type": "1",
+        "code": "1083",
+        "name": "Prelucrarea ceaiului și cafelei"
+      },
+      {
+        "type": "1",
+        "code": "1084",
+        "name": "Fabricarea condimentelor și ingredientelor"
+      },
+      {
+        "type": "1",
+        "code": "1085",
+        "name": "Fabricarea de mâncăruri preparate"
+      },
+      {
+        "type": "1",
+        "code": "1086",
+        "name": "Fabricarea preparatelor alimentare omogenizate și alimentelor dietetice"
+      },
+      {
+        "type": "1",
+        "code": "1089",
+        "name": "Fabricarea altor produse alimentare n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "109",
+        "name": "Fabricarea preparatelor pentru hrana animalelor"
+      },
+      {
+        "type": "1",
+        "code": "1091",
+        "name": "Fabricarea preparatelor pentru hrana animalelor de fermă"
+      },
+      {
+        "type": "1",
+        "code": "1092",
+        "name": "Fabricarea preparatelor pentru hrana animalelor de companie"
+      },
+      {
+        "type": "1",
+        "code": "110",
+        "name": "Fabricarea băuturilor"
+      },
+      {
+        "type": "1",
+        "code": "1101",
+        "name": "Distilarea, rafinarea și mixarea băuturilor alcoolice"
+      },
+      {
+        "type": "1",
+        "code": "1102",
+        "name": "Fabricarea vinurilor din struguri"
+      },
+      {
+        "type": "1",
+        "code": "1103",
+        "name": "Fabricarea cidrului și a altor vinuri din fructe"
+      },
+      {
+        "type": "1",
+        "code": "1104",
+        "name": "Fabricarea altor băuturi nedistilate, obținute prin fermentare"
+      },
+      {
+        "type": "1",
+        "code": "1105",
+        "name": "Fabricarea berii"
+      },
+      {
+        "type": "1",
+        "code": "1106",
+        "name": "Fabricarea malțului"
+      },
+      {
+        "type": "1",
+        "code": "1107",
+        "name": "Producția de băuturi răcoritoare nealcoolice; producția de ape minerale și alte ape îmbuteliate"
+      },
+      {
+        "type": "1",
+        "code": "120",
+        "name": "Fabricarea produselor din tutun"
+      },
+      {
+        "type": "1",
+        "code": "1200",
+        "name": "Fabricarea produselor din tutun"
+      },
+      {
+        "type": "1",
+        "code": "131",
+        "name": "Pregătirea fibrelor și filarea fibrelor textile"
+      },
+      {
+        "type": "1",
+        "code": "1310",
+        "name": "Pregătirea fibrelor și filarea fibrelor textile"
+      },
+      {
+        "type": "1",
+        "code": "132",
+        "name": "Producția de țesături"
+      },
+      {
+        "type": "1",
+        "code": "1320",
+        "name": "Producția de țesături"
+      },
+      {
+        "type": "1",
+        "code": "133",
+        "name": "Finisarea materialelor textile"
+      },
+      {
+        "type": "1",
+        "code": "1330",
+        "name": "Finisarea materialelor textile"
+      },
+      {
+        "type": "1",
+        "code": "139",
+        "name": "Fabricarea altor articole textile"
+      },
+      {
+        "type": "1",
+        "code": "1391",
+        "name": "Fabricarea de metraje prin tricotare sau croșetare"
+      },
+      {
+        "type": "1",
+        "code": "1392",
+        "name": "Fabricarea de articole confecționate din textile (excluzând îmbrăcămintea și lenjeria de corp)"
+      },
+      {
+        "type": "1",
+        "code": "1393",
+        "name": "Fabricarea de covoare și mochete"
+      },
+      {
+        "type": "1",
+        "code": "1394",
+        "name": "Fabricarea de odgoane, frânghii, sfori și plase"
+      },
+      {
+        "type": "1",
+        "code": "1395",
+        "name": "Fabricarea de textile nețesute și articole din acestea, cu excepția confecțiilor de îmbrăcăminte"
+      },
+      {
+        "type": "1",
+        "code": "1396",
+        "name": "Fabricarea de articole tehnice și industriale din textile"
+      },
+      {
+        "type": "1",
+        "code": "1399",
+        "name": "Fabricarea altor articole textile n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "141",
+        "name": "Fabricarea articolelor de îmbrăcăminte prin tricotare sau croșetare"
+      },
+      {
+        "type": "1",
+        "code": "1410",
+        "name": "Fabricarea articolelor de îmbrăcăminte prin tricotare sau croșetare"
+      },
+      {
+        "type": "1",
+        "code": "142",
+        "name": "Fabricarea altor articole de îmbrăcăminte și accesorii"
+      },
+      {
+        "type": "1",
+        "code": "1421",
+        "name": "Fabricarea articolelor de îmbrăcăminte"
+      },
+      {
+        "type": "1",
+        "code": "1422",
+        "name": "Fabricarea de articole de lenjerie de corp"
+      },
+      {
+        "type": "1",
+        "code": "1423",
+        "name": "Fabricarea de articole de îmbrăcăminte pentru lucru"
+      },
+      {
+        "type": "1",
+        "code": "1424",
+        "name": "Fabricarea articolelor de îmbrăcăminte din piele și blană"
+      },
+      {
+        "type": "1",
+        "code": "1429",
+        "name": "Fabricarea altor articole de îmbrăcăminte și accesorii n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "151",
+        "name": "Tăbăcirea și finisarea pieilor; fabricarea articolelor de voiaj și marochinărie și a articolelor de harnașament; prepararea și vopsirea blănurilor"
+      },
+      {
+        "type": "1",
+        "code": "1511",
+        "name": "Tăbăcirea și finisarea pieilor; prepararea și vopsirea blănurilor"
+      },
+      {
+        "type": "1",
+        "code": "1512",
+        "name": "Fabricarea articolelor de voiaj și marochinărie și a articolelor de harnașament"
+      },
+      {
+        "type": "1",
+        "code": "152",
+        "name": "Fabricarea încălțămintei"
+      },
+      {
+        "type": "1",
+        "code": "1520",
+        "name": "Fabricarea încălțămintei"
+      },
+      {
+        "type": "1",
+        "code": "161",
+        "name": "Tăierea și rindeluirea lemnului"
+      },
+      {
+        "type": "1",
+        "code": "1611",
+        "name": "Tăierea și rindeluirea lemnului"
+      },
+      {
+        "type": "1",
+        "code": "1612",
+        "name": "Prelucrarea și finisarea lemnului"
+      },
+      {
+        "type": "1",
+        "code": "162",
+        "name": "Fabricarea produselor din lemn, plută, paie și din alte materiale vegetale"
+      },
+      {
+        "type": "1",
+        "code": "1621",
+        "name": "Fabricarea de furnire și a panourilor din lemn"
+      },
+      {
+        "type": "1",
+        "code": "1622",
+        "name": "Fabricarea parchetului asamblat în panouri"
+      },
+      {
+        "type": "1",
+        "code": "1623",
+        "name": "Fabricarea altor elemente de dulgherie și tâmplărie, pentru construcții"
+      },
+      {
+        "type": "1",
+        "code": "1624",
+        "name": "Fabricarea ambalajelor din lemn"
+      },
+      {
+        "type": "1",
+        "code": "1625",
+        "name": "Fabricarea de uși și ferestre din lemn"
+      },
+      {
+        "type": "1",
+        "code": "1626",
+        "name": "Fabricarea de combustibili solizi din biomasă vegetală"
+      },
+      {
+        "type": "1",
+        "code": "1627",
+        "name": "Finisarea articolelor din lemn"
+      },
+      {
+        "type": "1",
+        "code": "1628",
+        "name": "Fabricarea altor produse din lemn; fabricarea articolelor din plută, paie și din alte materiale vegetale împletite"
+      },
+      {
+        "type": "1",
+        "code": "171",
+        "name": "Fabricarea celulozei, hârtiei și cartonului"
+      },
+      {
+        "type": "1",
+        "code": "1711",
+        "name": "Fabricarea celulozei"
+      },
+      {
+        "type": "1",
+        "code": "1712",
+        "name": "Fabricarea hârtiei și cartonului"
+      },
+      {
+        "type": "1",
+        "code": "172",
+        "name": "Fabricarea articolelor din hârtie și carton"
+      },
+      {
+        "type": "1",
+        "code": "1721",
+        "name": "Fabricarea hârtiei și cartonului ondulat și a ambalajelor din hârtie și carton"
+      },
+      {
+        "type": "1",
+        "code": "1722",
+        "name": "Fabricarea produselor de uz gospodăresc și sanitar, din hârtie sau carton"
+      },
+      {
+        "type": "1",
+        "code": "1723",
+        "name": "Fabricarea articolelor de papetărie"
+      },
+      {
+        "type": "1",
+        "code": "1724",
+        "name": "Fabricarea tapetului"
+      },
+      {
+        "type": "1",
+        "code": "1725",
+        "name": "Fabricarea altor articole din hârtie și carton n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "181",
+        "name": "Tipărire și activități de servicii conexe tipăririi"
+      },
+      {
+        "type": "1",
+        "code": "1811",
+        "name": "Tipărirea ziarelor"
+      },
+      {
+        "type": "1",
+        "code": "1812",
+        "name": "Alte activități de tipărire n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "1813",
+        "name": "Servicii pregătitoare pentru pretipărire"
+      },
+      {
+        "type": "1",
+        "code": "1814",
+        "name": "Legătorie și servicii conexe"
+      },
+      {
+        "type": "1",
+        "code": "182",
+        "name": "Reproducerea înregistrărilor"
+      },
+      {
+        "type": "1",
+        "code": "1820",
+        "name": "Reproducerea înregistrărilor"
+      },
+      {
+        "type": "1",
+        "code": "191",
+        "name": "Fabricarea produselor de cocserie"
+      },
+      {
+        "type": "1",
+        "code": "1910",
+        "name": "Fabricarea produselor de cocserie"
+      },
+      {
+        "type": "1",
+        "code": "192",
+        "name": "Fabricarea produselor obținute din prelucrarea țițeiului"
+      },
+      {
+        "type": "1",
+        "code": "1920",
+        "name": "Fabricarea produselor obținute din prelucrarea țițeiului"
+      },
+      {
+        "type": "1",
+        "code": "201",
+        "name": "Fabricarea produselor chimice de bază, a îngrășămintelor și produselor azotoase; fabricarea materialelor plastice și a cauciucului sintetic, în forme primare"
+      },
+      {
+        "type": "1",
+        "code": "2011",
+        "name": "Fabricarea gazelor industriale"
+      },
+      {
+        "type": "1",
+        "code": "2012",
+        "name": "Fabricarea coloranților și a pigmenților"
+      },
+      {
+        "type": "1",
+        "code": "2013",
+        "name": "Fabricarea altor produse chimice anorganice, de bază"
+      },
+      {
+        "type": "1",
+        "code": "2014",
+        "name": "Fabricarea altor produse chimice organice, de bază"
+      },
+      {
+        "type": "1",
+        "code": "2015",
+        "name": "Fabricarea îngrășămintelor și produselor azotoase"
+      },
+      {
+        "type": "1",
+        "code": "2016",
+        "name": "Fabricarea materialelor plastice în forme primare"
+      },
+      {
+        "type": "1",
+        "code": "2017",
+        "name": "Fabricarea cauciucului sintetic în forme primare"
+      },
+      {
+        "type": "1",
+        "code": "202",
+        "name": "Fabricarea pesticidelor și a altor produse agrochimice"
+      },
+      {
+        "type": "1",
+        "code": "2020",
+        "name": "Fabricarea pesticidelor și a altor produse agrochimice"
+      },
+      {
+        "type": "1",
+        "code": "203",
+        "name": "Fabricarea vopselelor, lacurilor, cernelii tipografice și masticurilor"
+      },
+      {
+        "type": "1",
+        "code": "2030",
+        "name": "Fabricarea vopselelor, lacurilor, cernelii tipografice și masticurilor"
+      },
+      {
+        "type": "1",
+        "code": "204",
+        "name": "Fabricarea săpunurilor, detergenților și a produselor de întreținere, cosmetice și de parfumerie"
+      },
+      {
+        "type": "1",
+        "code": "2041",
+        "name": "Fabricarea săpunurilor, detergenților și a produselor de întreținere"
+      },
+      {
+        "type": "1",
+        "code": "2042",
+        "name": "Fabricarea parfumurilor și a produselor cosmetice (de toaletă)"
+      },
+      {
+        "type": "1",
+        "code": "205",
+        "name": "Fabricarea altor produse chimice"
+      },
+      {
+        "type": "1",
+        "code": "2051",
+        "name": "Fabricarea biocombustibililor lichizi"
+      },
+      {
+        "type": "1",
+        "code": "2059",
+        "name": "Fabricarea altor produse chimice n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "206",
+        "name": "Fabricarea fibrelor sintetice și artificiale"
+      },
+      {
+        "type": "1",
+        "code": "2060",
+        "name": "Fabricarea fibrelor sintetice și artificiale"
+      },
+      {
+        "type": "1",
+        "code": "211",
+        "name": "Fabricarea produselor farmaceutice de bază"
+      },
+      {
+        "type": "1",
+        "code": "2110",
+        "name": "Fabricarea produselor farmaceutice de bază"
+      },
+      {
+        "type": "1",
+        "code": "212",
+        "name": "Fabricarea preparatelor farmaceutice"
+      },
+      {
+        "type": "1",
+        "code": "2120",
+        "name": "Fabricarea preparatelor farmaceutice"
+      },
+      {
+        "type": "1",
+        "code": "221",
+        "name": "Fabricarea articolelor din cauciuc"
+      },
+      {
+        "type": "1",
+        "code": "2211",
+        "name": "Fabricarea anvelopelor și a camerelor de aer; reșaparea și refacerea anvelopelor"
+      },
+      {
+        "type": "1",
+        "code": "2212",
+        "name": "Fabricarea altor produse din cauciuc"
+      },
+      {
+        "type": "1",
+        "code": "222",
+        "name": "Fabricarea articolelor din material plastic"
+      },
+      {
+        "type": "1",
+        "code": "2221",
+        "name": "Fabricarea plăcilor, foliilor, tuburilor și profilelor din material plastic"
+      },
+      {
+        "type": "1",
+        "code": "2222",
+        "name": "Fabricarea articolelor de ambalaj din material plastic"
+      },
+      {
+        "type": "1",
+        "code": "2223",
+        "name": "Fabricarea de uși și ferestre din material plastic"
+      },
+      {
+        "type": "1",
+        "code": "2224",
+        "name": "Fabricarea articolelor din material plastic pentru construcții"
+      },
+      {
+        "type": "1",
+        "code": "2225",
+        "name": "Prelucrarea și finisarea articolelor din material plastic"
+      },
+      {
+        "type": "1",
+        "code": "2226",
+        "name": "Fabricarea altor produse din material plastic"
+      },
+      {
+        "type": "1",
+        "code": "231",
+        "name": "Fabricarea sticlei și a articolelor din sticlă"
+      },
+      {
+        "type": "1",
+        "code": "2311",
+        "name": "Fabricarea sticlei plate"
+      },
+      {
+        "type": "1",
+        "code": "2312",
+        "name": "Prelucrarea și fasonarea sticlei plate"
+      },
+      {
+        "type": "1",
+        "code": "2313",
+        "name": "Fabricarea articolelor din sticlă"
+      },
+      {
+        "type": "1",
+        "code": "2314",
+        "name": "Fabricarea fibrelor din sticlă"
+      },
+      {
+        "type": "1",
+        "code": "2315",
+        "name": "Fabricarea de sticlărie tehnică"
+      },
+      {
+        "type": "1",
+        "code": "232",
+        "name": "Fabricarea de produse refractare"
+      },
+      {
+        "type": "1",
+        "code": "2320",
+        "name": "Fabricarea de produse refractare"
+      },
+      {
+        "type": "1",
+        "code": "233",
+        "name": "Fabricarea materialelor de construcții din argilă"
+      },
+      {
+        "type": "1",
+        "code": "2331",
+        "name": "Fabricarea plăcilor și dalelor din ceramică"
+      },
+      {
+        "type": "1",
+        "code": "2332",
+        "name": "Fabricarea cărămizilor, țiglelor și altor produse pentru construcții, din argilă arsă"
+      },
+      {
+        "type": "1",
+        "code": "234",
+        "name": "Fabricarea altor articole din ceramică și porțelan"
+      },
+      {
+        "type": "1",
+        "code": "2341",
+        "name": "Fabricarea articolelor ceramice pentru uz gospodăresc și ornamental"
+      },
+      {
+        "type": "1",
+        "code": "2342",
+        "name": "Fabricarea de obiecte sanitare din ceramică"
+      },
+      {
+        "type": "1",
+        "code": "2343",
+        "name": "Fabricarea izolatorilor și pieselor izolante din ceramică"
+      },
+      {
+        "type": "1",
+        "code": "2344",
+        "name": "Fabricarea altor produse tehnice din ceramică"
+      },
+      {
+        "type": "1",
+        "code": "2345",
+        "name": "Fabricarea altor produse ceramice n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "235",
+        "name": "Fabricarea cimentului, varului și ipsosului"
+      },
+      {
+        "type": "1",
+        "code": "2351",
+        "name": "Fabricarea cimentului"
+      },
+      {
+        "type": "1",
+        "code": "2352",
+        "name": "Fabricarea varului și ipsosului"
+      },
+      {
+        "type": "1",
+        "code": "236",
+        "name": "Fabricarea articolelor din beton, ciment și ipsos"
+      },
+      {
+        "type": "1",
+        "code": "2361",
+        "name": "Fabricarea produselor din beton pentru construcții"
+      },
+      {
+        "type": "1",
+        "code": "2362",
+        "name": "Fabricarea produselor din ipsos pentru construcții"
+      },
+      {
+        "type": "1",
+        "code": "2363",
+        "name": "Fabricarea betonului"
+      },
+      {
+        "type": "1",
+        "code": "2364",
+        "name": "Fabricarea mortarului"
+      },
+      {
+        "type": "1",
+        "code": "2365",
+        "name": "Fabricarea produselor din azbociment"
+      },
+      {
+        "type": "1",
+        "code": "2366",
+        "name": "Fabricarea altor articole din beton, ciment și ipsos"
+      },
+      {
+        "type": "1",
+        "code": "237",
+        "name": "Tăierea, fasonarea și finisarea pietrei"
+      },
+      {
+        "type": "1",
+        "code": "2370",
+        "name": "Tăierea, fasonarea și finisarea pietrei"
+      },
+      {
+        "type": "1",
+        "code": "239",
+        "name": "Fabricarea produselor abrazive și a altor produse din minerale nemetalice n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "2391",
+        "name": "Fabricarea de produse abrazive"
+      },
+      {
+        "type": "1",
+        "code": "2399",
+        "name": "Fabricarea altor produse din minerale nemetalice n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "241",
+        "name": "Producția de metale feroase sub forme primare și de feroaliaje"
+      },
+      {
+        "type": "1",
+        "code": "2410",
+        "name": "Producția de metale feroase sub forme primare și de feroaliaje"
+      },
+      {
+        "type": "1",
+        "code": "242",
+        "name": "Producția de tuburi, țevi, profile tubulare și accesorii pentru acestea, din oțel"
+      },
+      {
+        "type": "1",
+        "code": "2420",
+        "name": "Producția de tuburi, țevi, profile tubulare și accesorii pentru acestea, din oțel"
+      },
+      {
+        "type": "1",
+        "code": "243",
+        "name": "Fabricarea altor produse prin prelucrarea primară a oțelului"
+      },
+      {
+        "type": "1",
+        "code": "2431",
+        "name": "Tragere la rece a barelor"
+      },
+      {
+        "type": "1",
+        "code": "2432",
+        "name": "Laminare la rece a benzilor înguste"
+      },
+      {
+        "type": "1",
+        "code": "2433",
+        "name": "Producția de profile obținute la rece"
+      },
+      {
+        "type": "1",
+        "code": "2434",
+        "name": "Trefilarea firelor la rece"
+      },
+      {
+        "type": "1",
+        "code": "244",
+        "name": "Producția metalelor prețioase și a altor metale neferoase"
+      },
+      {
+        "type": "1",
+        "code": "2441",
+        "name": "Producția metalelor prețioase"
+      },
+      {
+        "type": "1",
+        "code": "2442",
+        "name": "Metalurgia aluminiului"
+      },
+      {
+        "type": "1",
+        "code": "2443",
+        "name": "Producția plumbului, zincului și cositorului"
+      },
+      {
+        "type": "1",
+        "code": "2444",
+        "name": "Metalurgia cuprului"
+      },
+      {
+        "type": "1",
+        "code": "2445",
+        "name": "Producția altor metale neferoase"
+      },
+      {
+        "type": "1",
+        "code": "2446",
+        "name": "Prelucrarea combustibililor nucleari"
+      },
+      {
+        "type": "1",
+        "code": "245",
+        "name": "Turnarea metalelor"
+      },
+      {
+        "type": "1",
+        "code": "2451",
+        "name": "Turnarea fontei"
+      },
+      {
+        "type": "1",
+        "code": "2452",
+        "name": "Turnarea oțelului"
+      },
+      {
+        "type": "1",
+        "code": "2453",
+        "name": "Turnarea metalelor neferoase ușoare"
+      },
+      {
+        "type": "1",
+        "code": "2454",
+        "name": "Turnarea altor metale neferoase"
+      },
+      {
+        "type": "1",
+        "code": "251",
+        "name": "Fabricarea de construcții metalice"
+      },
+      {
+        "type": "1",
+        "code": "2511",
+        "name": "Fabricarea de construcții metalice și părți componente ale structurilor metalice"
+      },
+      {
+        "type": "1",
+        "code": "2512",
+        "name": "Fabricarea de uși și ferestre din metal"
+      },
+      {
+        "type": "1",
+        "code": "252",
+        "name": "Producția de rezervoare, cisterne și containere metalice; producția de radiatoare și cazane pentru încălzire centrală"
+      },
+      {
+        "type": "1",
+        "code": "2521",
+        "name": "Producția de radiatoare și cazane pentru încălzire centrală; producția de generatoare de abur și boilere"
+      },
+      {
+        "type": "1",
+        "code": "2522",
+        "name": "Producția de rezervoare, cisterne și containere metalice"
+      },
+      {
+        "type": "1",
+        "code": "253",
+        "name": "Fabricarea armamentului și muniției"
+      },
+      {
+        "type": "1",
+        "code": "2530",
+        "name": "Fabricarea armamentului și muniției"
+      },
+      {
+        "type": "1",
+        "code": "254",
+        "name": "Fabricarea produselor metalice obținute prin deformare plastică; metalurgia pulberilor"
+      },
+      {
+        "type": "1",
+        "code": "2540",
+        "name": "Fabricarea produselor metalice obținute prin deformare plastică; metalurgia pulberilor"
+      },
+      {
+        "type": "1",
+        "code": "255",
+        "name": "Tratarea și acoperirea metalelor; operațiuni de mecanică generală pe bază de plată sau contract"
+      },
+      {
+        "type": "1",
+        "code": "2551",
+        "name": "Acoperirea metalelor"
+      },
+      {
+        "type": "1",
+        "code": "2552",
+        "name": "Tratamente termice ale metalelor"
+      },
+      {
+        "type": "1",
+        "code": "2553",
+        "name": "Operațiuni de mecanică generală"
+      },
+      {
+        "type": "1",
+        "code": "256",
+        "name": "Producția de unelte și articole de fierărie"
+      },
+      {
+        "type": "1",
+        "code": "2561",
+        "name": "Fabricarea produselor de tăiat"
+      },
+      {
+        "type": "1",
+        "code": "2562",
+        "name": "Fabricarea articolelor de feronerie"
+      },
+      {
+        "type": "1",
+        "code": "2563",
+        "name": "Fabricarea uneltelor"
+      },
+      {
+        "type": "1",
+        "code": "259",
+        "name": "Fabricarea altor produse prelucrate din metal"
+      },
+      {
+        "type": "1",
+        "code": "2591",
+        "name": "Fabricarea de recipienți, containere și alte produse similare din oțel"
+      },
+      {
+        "type": "1",
+        "code": "2592",
+        "name": "Fabricarea ambalajelor metalice ușoare"
+      },
+      {
+        "type": "1",
+        "code": "2593",
+        "name": "Fabricarea articolelor din fire metalice; fabricarea de lanțuri și arcuri"
+      },
+      {
+        "type": "1",
+        "code": "2594",
+        "name": "Fabricarea de șuruburi, buloane și alte articole filetate; fabricarea de nituri și șaibe"
+      },
+      {
+        "type": "1",
+        "code": "2599",
+        "name": "Fabricarea altor articole din metal n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "261",
+        "name": "Fabricarea componentelor electronice"
+      },
+      {
+        "type": "1",
+        "code": "2611",
+        "name": "Fabricarea componentelor electronice"
+      },
+      {
+        "type": "1",
+        "code": "2612",
+        "name": "Fabricarea subansamblurilor electronice (module)"
+      },
+      {
+        "type": "1",
+        "code": "262",
+        "name": "Fabricarea calculatoarelor și a echipamentelor periferice"
+      },
+      {
+        "type": "1",
+        "code": "2620",
+        "name": "Fabricarea calculatoarelor și a echipamentelor periferice"
+      },
+      {
+        "type": "1",
+        "code": "263",
+        "name": "Fabricarea echipamentelor de comunicații"
+      },
+      {
+        "type": "1",
+        "code": "2630",
+        "name": "Fabricarea echipamentelor de comunicații"
+      },
+      {
+        "type": "1",
+        "code": "264",
+        "name": "Fabricarea produselor electronice de larg consum"
+      },
+      {
+        "type": "1",
+        "code": "2640",
+        "name": "Fabricarea produselor electronice de larg consum"
+      },
+      {
+        "type": "1",
+        "code": "265",
+        "name": "Fabricarea de echipamente de măsură, verificare, control și navigație; producția de ceasuri"
+      },
+      {
+        "type": "1",
+        "code": "2651",
+        "name": "Fabricarea de instrumente și dispozitive pentru măsură, verificare, control, navigație"
+      },
+      {
+        "type": "1",
+        "code": "2652",
+        "name": "Producția de ceasuri"
+      },
+      {
+        "type": "1",
+        "code": "266",
+        "name": "Fabricarea de echipamente pentru radiologie, electrodiagnostic și electroterapie"
+      },
+      {
+        "type": "1",
+        "code": "2660",
+        "name": "Fabricarea de echipamente pentru radiologie, electrodiagnostic și electroterapie"
+      },
+      {
+        "type": "1",
+        "code": "267",
+        "name": "Fabricarea de instrumente optice, suporți magnetici și optici; fabricarea de echipamente fotografice"
+      },
+      {
+        "type": "1",
+        "code": "2670",
+        "name": "Fabricarea de instrumente optice, suporți magnetici și optici; fabricarea de echipamente fotografice"
+      },
+      {
+        "type": "1",
+        "code": "271",
+        "name": "Fabricarea motoarelor electrice, generatoarelor și transformatoarelor electrice și a aparatelor de distribuție și control a electricității"
+      },
+      {
+        "type": "1",
+        "code": "2711",
+        "name": "Fabricarea motoarelor, generatoarelor și transformatoarelor electrice"
+      },
+      {
+        "type": "1",
+        "code": "2712",
+        "name": "Fabricarea aparatelor de distribuție și control al electricității"
+      },
+      {
+        "type": "1",
+        "code": "272",
+        "name": "Fabricarea de acumulatori și baterii"
+      },
+      {
+        "type": "1",
+        "code": "2720",
+        "name": "Fabricarea de acumulatori și baterii"
+      },
+      {
+        "type": "1",
+        "code": "273",
+        "name": "Fabricarea de fire și cabluri; fabricarea dispozitivelor de conexiune pentru acestea"
+      },
+      {
+        "type": "1",
+        "code": "2731",
+        "name": "Fabricarea de cabluri cu fibră optică"
+      },
+      {
+        "type": "1",
+        "code": "2732",
+        "name": "Fabricarea altor fire și cabluri electrice și electronice"
+      },
+      {
+        "type": "1",
+        "code": "2733",
+        "name": "Fabricarea dispozitivelor de conexiune pentru fire și cabluri electrice și electronice"
+      },
+      {
+        "type": "1",
+        "code": "274",
+        "name": "Fabricarea de echipamente electrice de iluminat"
+      },
+      {
+        "type": "1",
+        "code": "2740",
+        "name": "Fabricarea de echipamente electrice de iluminat"
+      },
+      {
+        "type": "1",
+        "code": "275",
+        "name": "Fabricarea de echipamente casnice"
+      },
+      {
+        "type": "1",
+        "code": "2751",
+        "name": "Fabricarea de aparate electrocasnice"
+      },
+      {
+        "type": "1",
+        "code": "2752",
+        "name": "Fabricarea de echipamente casnice neelectrice"
+      },
+      {
+        "type": "1",
+        "code": "279",
+        "name": "Fabricarea altor echipamente electrice"
+      },
+      {
+        "type": "1",
+        "code": "2790",
+        "name": "Fabricarea altor echipamente electrice"
+      },
+      {
+        "type": "1",
+        "code": "281",
+        "name": "Fabricarea de mașini și utilaje de utilizare generală"
+      },
+      {
+        "type": "1",
+        "code": "2811",
+        "name": "Fabricarea de motoare și turbine (cu excepția celor pentru avioane, autovehicule și motociclete)"
+      },
+      {
+        "type": "1",
+        "code": "2812",
+        "name": "Fabricarea de motoare hidraulice"
+      },
+      {
+        "type": "1",
+        "code": "2813",
+        "name": "Fabricarea de pompe și compresoare"
+      },
+      {
+        "type": "1",
+        "code": "2814",
+        "name": "Fabricarea de articole de robinetărie"
+      },
+      {
+        "type": "1",
+        "code": "2815",
+        "name": "Fabricarea lagărelor, angrenajelor, cutiilor de viteză și a elementelor mecanice de transmisie"
+      },
+      {
+        "type": "1",
+        "code": "282",
+        "name": "Fabricarea altor mașini și utilaje de utilizare generală"
+      },
+      {
+        "type": "1",
+        "code": "2821",
+        "name": "Fabricarea cuptoarelor, furnalelor și arzătoarelor"
+      },
+      {
+        "type": "1",
+        "code": "2822",
+        "name": "Fabricarea echipamentelor de ridicat și manipulat"
+      },
+      {
+        "type": "1",
+        "code": "2823",
+        "name": "Fabricarea mașinilor și echipamentelor de birou (exceptând fabricarea calculatoarelor și a echipamentelor periferice)"
+      },
+      {
+        "type": "1",
+        "code": "2824",
+        "name": "Fabricarea mașinilor-unelte portabile acționate electric"
+      },
+      {
+        "type": "1",
+        "code": "2825",
+        "name": "Fabricarea echipamentelor de ventilație și frigorifice, exceptând echipamentele de uz casnic"
+      },
+      {
+        "type": "1",
+        "code": "2829",
+        "name": "Fabricarea altor mașini și utilaje de utilizare generală n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "283",
+        "name": "Fabricarea mașinilor și utilajelor pentru agricultură și exploatări forestiere"
+      },
+      {
+        "type": "1",
+        "code": "2830",
+        "name": "Fabricarea mașinilor și utilajelor pentru agricultură și exploatări forestiere"
+      },
+      {
+        "type": "1",
+        "code": "284",
+        "name": "Fabricarea utilajelor pentru prelucrarea metalului și a mașinilor-unelte"
+      },
+      {
+        "type": "1",
+        "code": "2841",
+        "name": "Fabricarea utilajelor și a mașinilor-unelte pentru prelucrarea metalului"
+      },
+      {
+        "type": "1",
+        "code": "2842",
+        "name": "Fabricarea altor mașini-unelte n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "289",
+        "name": "Fabricarea altor mașini și utilaje cu destinație specifică"
+      },
+      {
+        "type": "1",
+        "code": "2891",
+        "name": "Fabricarea utilajelor pentru metalurgie"
+      },
+      {
+        "type": "1",
+        "code": "2892",
+        "name": "Fabricarea utilajelor pentru extracție și construcții"
+      },
+      {
+        "type": "1",
+        "code": "2893",
+        "name": "Fabricarea utilajelor pentru prelucrarea produselor alimentare, băuturilor și tutunului"
+      },
+      {
+        "type": "1",
+        "code": "2894",
+        "name": "Fabricarea utilajelor pentru industria textilă, a îmbrăcămintei și a pielăriei"
+      },
+      {
+        "type": "1",
+        "code": "2895",
+        "name": "Fabricarea utilajelor pentru industria hârtiei și cartonului"
+      },
+      {
+        "type": "1",
+        "code": "2896",
+        "name": "Fabricarea utilajelor pentru prelucrarea maselor plastice și a cauciucului"
+      },
+      {
+        "type": "1",
+        "code": "2897",
+        "name": "Fabricarea mașinilor și utilajelor pentru fabricația aditivă (care utilizează tehnologia de fabricație aditivă)"
+      },
+      {
+        "type": "1",
+        "code": "2899",
+        "name": "Fabricarea altor mașini și utilaje specifice n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "291",
+        "name": "Fabricarea autovehiculelor de transport rutier"
+      },
+      {
+        "type": "1",
+        "code": "2910",
+        "name": "Fabricarea autovehiculelor de transport rutier"
+      },
+      {
+        "type": "1",
+        "code": "292",
+        "name": "Producția de caroserii pentru autovehicule; fabricarea de remorci și semiremorci"
+      },
+      {
+        "type": "1",
+        "code": "2920",
+        "name": "Producția de caroserii pentru autovehicule; fabricarea de remorci și semiremorci"
+      },
+      {
+        "type": "1",
+        "code": "293",
+        "name": "Producția de piese și accesorii pentru autovehicule și pentru motoare de autovehicule"
+      },
+      {
+        "type": "1",
+        "code": "2931",
+        "name": "Fabricarea de echipamente electrice și electronice pentru autovehicule și pentru motoare de autovehicule"
+      },
+      {
+        "type": "1",
+        "code": "2932",
+        "name": "Fabricarea altor piese și accesorii pentru autovehicule și pentru motoare de autovehicule"
+      },
+      {
+        "type": "1",
+        "code": "301",
+        "name": "Construcția de nave și bărci"
+      },
+      {
+        "type": "1",
+        "code": "3011",
+        "name": "Construcția de nave civile și structuri plutitoare"
+      },
+      {
+        "type": "1",
+        "code": "3012",
+        "name": "Construcția de ambarcațiuni sportive și de agrement"
+      },
+      {
+        "type": "1",
+        "code": "3013",
+        "name": "Construcția de nave și vase militare"
+      },
+      {
+        "type": "1",
+        "code": "302",
+        "name": "Fabricarea materialului rulant"
+      },
+      {
+        "type": "1",
+        "code": "3020",
+        "name": "Fabricarea materialului rulant"
+      },
+      {
+        "type": "1",
+        "code": "303",
+        "name": "Fabricarea de aeronave și nave spațiale"
+      },
+      {
+        "type": "1",
+        "code": "3031",
+        "name": "Fabricarea de aeronave și nave spațiale civile"
+      },
+      {
+        "type": "1",
+        "code": "3032",
+        "name": "Fabricarea de aeronave și nave spațiale militare"
+      },
+      {
+        "type": "1",
+        "code": "304",
+        "name": "Fabricarea vehiculelor militare de luptă"
+      },
+      {
+        "type": "1",
+        "code": "3040",
+        "name": "Fabricarea vehiculelor militare de luptă"
+      },
+      {
+        "type": "1",
+        "code": "309",
+        "name": "Fabricarea altor echipamente de transport n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "3091",
+        "name": "Fabricarea de motociclete"
+      },
+      {
+        "type": "1",
+        "code": "3092",
+        "name": "Fabricarea de biciclete și de vehicule pentru invalizi"
+      },
+      {
+        "type": "1",
+        "code": "3099",
+        "name": "Fabricarea altor mijloace de transport n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "310",
+        "name": "Fabricarea de mobilă"
+      },
+      {
+        "type": "1",
+        "code": "3100",
+        "name": "Fabricarea de mobilă"
+      },
+      {
+        "type": "1",
+        "code": "321",
+        "name": "Fabricarea bijuteriilor, imitațiilor de bijuterii și articolelor similare"
+      },
+      {
+        "type": "1",
+        "code": "3211",
+        "name": "Baterea monedelor"
+      },
+      {
+        "type": "1",
+        "code": "3212",
+        "name": "Fabricarea bijuteriilor și articolelor similare din metale și pietre prețioase"
+      },
+      {
+        "type": "1",
+        "code": "3213",
+        "name": "Fabricarea imitațiilor de bijuterii și articole similare"
+      },
+      {
+        "type": "1",
+        "code": "322",
+        "name": "Fabricarea instrumentelor muzicale"
+      },
+      {
+        "type": "1",
+        "code": "3220",
+        "name": "Fabricarea instrumentelor muzicale"
+      },
+      {
+        "type": "1",
+        "code": "323",
+        "name": "Fabricarea articolelor pentru sport"
+      },
+      {
+        "type": "1",
+        "code": "3230",
+        "name": "Fabricarea articolelor pentru sport"
+      },
+      {
+        "type": "1",
+        "code": "324",
+        "name": "Fabricarea jocurilor și jucăriilor"
+      },
+      {
+        "type": "1",
+        "code": "3240",
+        "name": "Fabricarea jocurilor și jucăriilor"
+      },
+      {
+        "type": "1",
+        "code": "325",
+        "name": "Fabricarea de dispozitive, aparate și instrumente medicale și stomatologice"
+      },
+      {
+        "type": "1",
+        "code": "3250",
+        "name": "Fabricarea de dispozitive, aparate și instrumente medicale stomatologice"
+      },
+      {
+        "type": "1",
+        "code": "329",
+        "name": "Alte activități industriale"
+      },
+      {
+        "type": "1",
+        "code": "3291",
+        "name": "Fabricarea măturilor și periilor"
+      },
+      {
+        "type": "1",
+        "code": "3299",
+        "name": "Fabricarea altor produse manufacturiere n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "331",
+        "name": "Repararea și întreținerea articolelor fabricate din metal, a mașinilor și echipamentelor"
+      },
+      {
+        "type": "1",
+        "code": "3311",
+        "name": "Repararea și întreținerea articolelor fabricate din metal"
+      },
+      {
+        "type": "1",
+        "code": "3312",
+        "name": "Repararea și întreținerea mașinilor"
+      },
+      {
+        "type": "1",
+        "code": "3313",
+        "name": "Repararea și întreținerea echipamentelor electronice și optice"
+      },
+      {
+        "type": "1",
+        "code": "3314",
+        "name": "Repararea și întreținerea echipamentelor electrice"
+      },
+      {
+        "type": "1",
+        "code": "3315",
+        "name": "Repararea și întreținerea navelor și bărcilor civile"
+      },
+      {
+        "type": "1",
+        "code": "3316",
+        "name": "Repararea și întreținerea aeronavelor și navelor spațiale civile"
+      },
+      {
+        "type": "1",
+        "code": "3317",
+        "name": "Repararea și întreținerea altor echipamente civile de transport n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "3318",
+        "name": "Repararea și întreținerea vehiculelor militare de luptă, a navelor, vaselor, aeronavelor și navelor spațiale militare"
+      },
+      {
+        "type": "1",
+        "code": "3319",
+        "name": "Repararea și întreținerea altor echipamente"
+      },
+      {
+        "type": "1",
+        "code": "332",
+        "name": "Instalarea mașinilor și echipamentelor industriale"
+      },
+      {
+        "type": "1",
+        "code": "3320",
+        "name": "Instalarea mașinilor și echipamentelor industriale"
+      }
+    ]
+  },
+  {
+    "section": "D",
+    "name": "Producția și furnizarea de energie electrică și termică, gaze, apă caldă și aer condiționat",
+    "codes": [
+      {
+        "type": "1",
+        "code": "351",
+        "name": "Producția, transportul și distribuția energiei electrice"
+      },
+      {
+        "type": "1",
+        "code": "3511",
+        "name": "Producția de energie electrică din resurse neregenerabile"
+      },
+      {
+        "type": "1",
+        "code": "3512",
+        "name": "Producția de energie electrică din resurse regenerabile"
+      },
+      {
+        "type": "1",
+        "code": "3513",
+        "name": "Transportul energiei electrice"
+      },
+      {
+        "type": "1",
+        "code": "3514",
+        "name": "Distribuția energiei electrice"
+      },
+      {
+        "type": "1",
+        "code": "3515",
+        "name": "Comercializarea energiei electrice"
+      },
+      {
+        "type": "1",
+        "code": "3516",
+        "name": "Depozitarea energiei electrice"
+      },
+      {
+        "type": "1",
+        "code": "352",
+        "name": "Producția gazelor; distribuția combustibililor gazoși prin conducte"
+      },
+      {
+        "type": "1",
+        "code": "3521",
+        "name": "Producția gazelor"
+      },
+      {
+        "type": "1",
+        "code": "3522",
+        "name": "Distribuția combustibililor gazoși, prin conducte"
+      },
+      {
+        "type": "1",
+        "code": "3523",
+        "name": "Comercializarea combustibililor gazoși, prin conducte"
+      },
+      {
+        "type": "1",
+        "code": "3524",
+        "name": "Depozitarea gazelor, ca parte a serviciilor de furnizare"
+      },
+      {
+        "type": "1",
+        "code": "353",
+        "name": "Furnizarea de abur și aer condiționat"
+      },
+      {
+        "type": "1",
+        "code": "3530",
+        "name": "Furnizarea de abur și aer condiționat"
+      },
+      {
+        "type": "1",
+        "code": "354",
+        "name": "Activități ale agenților și brokerilor din domeniul energiei electrice și al gazelor naturale"
+      },
+      {
+        "type": "1",
+        "code": "3540",
+        "name": "Activități ale agenților și brokerilor din domeniul energiei electrice și al gazelor naturale"
+      }
+    ]
+  },
+  {
+    "section": "E",
+    "name": "Distribuția apei; salubritate, gestionarea deșeurilor, activități de decontaminare",
+    "codes": [
+      {
+        "type": "1",
+        "code": "360",
+        "name": "Captarea, tratarea și distribuția apei"
+      },
+      {
+        "type": "1",
+        "code": "3600",
+        "name": "Captarea, tratarea și distribuția apei"
+      },
+      {
+        "type": "1",
+        "code": "370",
+        "name": "Colectarea și epurarea apelor uzate"
+      },
+      {
+        "type": "1",
+        "code": "3700",
+        "name": "Colectarea și epurarea apelor uzate"
+      },
+      {
+        "type": "1",
+        "code": "381",
+        "name": "Colectarea deșeurilor"
+      },
+      {
+        "type": "1",
+        "code": "3811",
+        "name": "Colectarea deșeurilor nepericuloase"
+      },
+      {
+        "type": "1",
+        "code": "3812",
+        "name": "Colectarea deșeurilor periculoase"
+      },
+      {
+        "type": "1",
+        "code": "382",
+        "name": "Recuperarea materialelor"
+      },
+      {
+        "type": "1",
+        "code": "3821",
+        "name": "Recuperarea materialelor reciclabile"
+      },
+      {
+        "type": "1",
+        "code": "3822",
+        "name": "Producția de energie (electrică sau termică) prin tratarea deșeurilor (inclusiv prin incinerare)"
+      },
+      {
+        "type": "1",
+        "code": "3823",
+        "name": "Alte activități de tratare a deșeurilor"
+      },
+      {
+        "type": "1",
+        "code": "383",
+        "name": "Eliminarea deșeurilor"
+      },
+      {
+        "type": "1",
+        "code": "3831",
+        "name": "Incinerarea deșeurilor fără producție de energie"
+      },
+      {
+        "type": "1",
+        "code": "3832",
+        "name": "Activități ale gropilor de gunoi sau ale depozitelor permanente de deșeuri"
+      },
+      {
+        "type": "1",
+        "code": "3833",
+        "name": "Alte activități de eliminare a deșeurilor"
+      },
+      {
+        "type": "1",
+        "code": "390",
+        "name": "Activități și servicii de decontaminare"
+      },
+      {
+        "type": "1",
+        "code": "3900",
+        "name": "Activități și servicii de decontaminare"
+      }
+    ]
+  },
+  {
+    "section": "F",
+    "name": "Construcții",
+    "codes": [
+      {
+        "type": "1",
+        "code": "410",
+        "name": "Lucrări de construcții ale clădirilor rezidențiale și nerezidențiale"
+      },
+      {
+        "type": "1",
+        "code": "4100",
+        "name": "Lucrări de construcții ale clădirilor rezidențiale și nerezidențiale"
+      },
+      {
+        "type": "1",
+        "code": "421",
+        "name": "Lucrări de construcții ale drumurilor și a căilor ferate"
+      },
+      {
+        "type": "1",
+        "code": "4211",
+        "name": "Lucrări de construcții ale drumurilor și autostrăzilor"
+      },
+      {
+        "type": "1",
+        "code": "4212",
+        "name": "Lucrări de construcții ale căilor ferate de suprafață și subterane"
+      },
+      {
+        "type": "1",
+        "code": "4213",
+        "name": "Construcția de poduri și tuneluri"
+      },
+      {
+        "type": "1",
+        "code": "422",
+        "name": "Lucrări de construcții ale proiectelor utilitare"
+      },
+      {
+        "type": "1",
+        "code": "4221",
+        "name": "Lucrări de construcții ale proiectelor utilitare pentru fluide"
+      },
+      {
+        "type": "1",
+        "code": "4222",
+        "name": "Lucrări de construcții ale proiectelor utilitare pentru electricitate și telecomunicații"
+      },
+      {
+        "type": "1",
+        "code": "429",
+        "name": "Lucrări de construcții ale altor proiecte inginerești"
+      },
+      {
+        "type": "1",
+        "code": "4291",
+        "name": "Construcții hidrotehnice"
+      },
+      {
+        "type": "1",
+        "code": "4299",
+        "name": "Lucrări de construcții ale altor proiecte inginerești n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "431",
+        "name": "Lucrări de demolare și de pregătire a terenului"
+      },
+      {
+        "type": "1",
+        "code": "4311",
+        "name": "Lucrări de demolare a construcțiilor"
+      },
+      {
+        "type": "1",
+        "code": "4312",
+        "name": "Lucrări de pregătire a terenului"
+      },
+      {
+        "type": "1",
+        "code": "4313",
+        "name": "Lucrări de foraj și sondaj pentru construcții"
+      },
+      {
+        "type": "1",
+        "code": "432",
+        "name": "Lucrări de instalații electrice și tehnico-sanitare și alte lucrări de instalații pentru construcții"
+      },
+      {
+        "type": "1",
+        "code": "4321",
+        "name": "Lucrări de instalații electrice"
+      },
+      {
+        "type": "1",
+        "code": "4322",
+        "name": "Lucrări de instalații sanitare, de încălzire și de aer condiționat"
+      },
+      {
+        "type": "1",
+        "code": "4323",
+        "name": "Lucrări de izolații"
+      },
+      {
+        "type": "1",
+        "code": "4324",
+        "name": "Alte lucrări de instalații pentru construcții"
+      },
+      {
+        "type": "1",
+        "code": "433",
+        "name": "Lucrări de finisare"
+      },
+      {
+        "type": "1",
+        "code": "4331",
+        "name": "Lucrări de ipsoserie"
+      },
+      {
+        "type": "1",
+        "code": "4332",
+        "name": "Lucrări de tâmplărie și dulgherie"
+      },
+      {
+        "type": "1",
+        "code": "4333",
+        "name": "Lucrări de pardosire și placare a pereților"
+      },
+      {
+        "type": "1",
+        "code": "4334",
+        "name": "Lucrări de vopsitorie, zugrăveli și montări de geamuri"
+      },
+      {
+        "type": "1",
+        "code": "4335",
+        "name": "Alte lucrări de finisare"
+      },
+      {
+        "type": "1",
+        "code": "434",
+        "name": "Lucrări speciale de construcții pentru clădiri"
+      },
+      {
+        "type": "1",
+        "code": "4341",
+        "name": "Lucrări de învelitori, șarpante și terase la construcții"
+      },
+      {
+        "type": "1",
+        "code": "4342",
+        "name": "Alte lucrări speciale de construcții pentru clădiri"
+      },
+      {
+        "type": "1",
+        "code": "435",
+        "name": "Lucrări speciale de construcții pentru proiecte de geniu civil"
+      },
+      {
+        "type": "1",
+        "code": "4350",
+        "name": "Lucrări speciale de construcții pentru proiecte de geniu civil"
+      },
+      {
+        "type": "1",
+        "code": "436",
+        "name": "Servicii de intermediere pentru lucrări speciale de construcții"
+      },
+      {
+        "type": "1",
+        "code": "4360",
+        "name": "Servicii de intermediere pentru lucrări speciale de construcții"
+      },
+      {
+        "type": "1",
+        "code": "439",
+        "name": "Alte lucrări speciale de construcții"
+      },
+      {
+        "type": "1",
+        "code": "4391",
+        "name": "Activități de zidărie"
+      },
+      {
+        "type": "1",
+        "code": "4399",
+        "name": "Alte lucrări speciale de construcții n.c.a."
+      }
+    ]
+  },
+  {
+    "section": "G",
+    "name": "Comerț cu ridicata și cu amănuntul",
+    "codes": [
+      {
+        "type": "1",
+        "code": "461",
+        "name": "Activități de intermediere în comerțul cu ridicata"
+      },
+      {
+        "type": "1",
+        "code": "4611",
+        "name": "Intermedieri în comerțul cu materii prime agricole, animale vii, materii prime textile și cu semifabricate"
+      },
+      {
+        "type": "1",
+        "code": "4612",
+        "name": "Intermedieri în comerțul cu combustibili, minereuri, metale și produse chimice pentru industrie"
+      },
+      {
+        "type": "1",
+        "code": "4613",
+        "name": "Intermedieri în comerțul cu material lemnos și materiale de construcții"
+      },
+      {
+        "type": "1",
+        "code": "4614",
+        "name": "Intermedieri în comerțul cu mașini, echipamente industriale, nave și avioane"
+      },
+      {
+        "type": "1",
+        "code": "4615",
+        "name": "Intermedieri în comerțul cu mobilă, articole de menaj și de fierărie"
+      },
+      {
+        "type": "1",
+        "code": "4616",
+        "name": "Intermedieri în comerțul cu textile, confecții din blană, încălțăminte și articole din piele"
+      },
+      {
+        "type": "1",
+        "code": "4617",
+        "name": "Intermedieri în comerțul cu produse alimentare, băuturi și tutun"
+      },
+      {
+        "type": "1",
+        "code": "4618",
+        "name": "Intermedieri în comerțul specializat în vânzarea produselor cu caracter specific n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "4619",
+        "name": "Intermedieri în comerțul cu produse diverse"
+      },
+      {
+        "type": "1",
+        "code": "462",
+        "name": "Comerț cu ridicata al produselor agricole brute și al animalelor vii"
+      },
+      {
+        "type": "1",
+        "code": "4621",
+        "name": "Comerț cu ridicata al cerealelor, semințelor, furajelor și tutunului neprelucrat"
+      },
+      {
+        "type": "1",
+        "code": "4622",
+        "name": "Comerț cu ridicata al florilor și al plantelor"
+      },
+      {
+        "type": "1",
+        "code": "4623",
+        "name": "Comerț cu ridicata al animalelor vii"
+      },
+      {
+        "type": "1",
+        "code": "4624",
+        "name": "Comerț cu ridicata al blănurilor, pieilor brute și al pieilor prelucrate"
+      },
+      {
+        "type": "1",
+        "code": "463",
+        "name": "Comerț cu ridicata al produselor alimentare, al băuturilor și al tutunului"
+      },
+      {
+        "type": "1",
+        "code": "4631",
+        "name": "Comerț cu ridicata al fructelor și legumelor"
+      },
+      {
+        "type": "1",
+        "code": "4632",
+        "name": "Comerț cu ridicata al cărnii și produselor din carne, pește și produse din pește, crustacee și moluște"
+      },
+      {
+        "type": "1",
+        "code": "4633",
+        "name": "Comerț cu ridicata al produselor lactate, ouălor, uleiurilor și grăsimilor comestibile"
+      },
+      {
+        "type": "1",
+        "code": "4634",
+        "name": "Comerț cu ridicata al băuturilor"
+      },
+      {
+        "type": "1",
+        "code": "4635",
+        "name": "Comerț cu ridicata al produselor din tutun"
+      },
+      {
+        "type": "1",
+        "code": "4636",
+        "name": "Comerț cu ridicata al zahărului, ciocolatei și produselor zaharoase"
+      },
+      {
+        "type": "1",
+        "code": "4637",
+        "name": "Comerț cu ridicata cu cafea, ceai, cacao și condimente"
+      },
+      {
+        "type": "1",
+        "code": "4638",
+        "name": "Comerț cu ridicata specializat al altor alimente"
+      },
+      {
+        "type": "1",
+        "code": "4639",
+        "name": "Comerț cu ridicata nespecializat de produse alimentare, băuturi și tutun"
+      },
+      {
+        "type": "1",
+        "code": "464",
+        "name": "Comerț cu ridicata al bunurilor de consum"
+      },
+      {
+        "type": "1",
+        "code": "4641",
+        "name": "Comerț cu ridicata al produselor textile"
+      },
+      {
+        "type": "1",
+        "code": "4642",
+        "name": "Comerț cu ridicata al îmbrăcăminții și încălțămintei"
+      },
+      {
+        "type": "1",
+        "code": "4643",
+        "name": "Comerț cu ridicata al aparatelor electrice de uz gospodăresc, al aparatelor de radio și televizoarelor"
+      },
+      {
+        "type": "1",
+        "code": "4644",
+        "name": "Comerț cu ridicata al produselor din ceramică, sticlărie și produse de întreținere"
+      },
+      {
+        "type": "1",
+        "code": "4645",
+        "name": "Comerț cu ridicata al produselor cosmetice și de parfumerie"
+      },
+      {
+        "type": "1",
+        "code": "4646",
+        "name": "Comerț cu ridicata al produselor farmaceutice și medicale"
+      },
+      {
+        "type": "1",
+        "code": "4647",
+        "name": "Comerț cu ridicata al mobilei (inclusiv de birou și pentru magazine), covoarelor și al articolelor de iluminat"
+      },
+      {
+        "type": "1",
+        "code": "4648",
+        "name": "Comerț cu ridicata al ceasurilor și bijuteriilor"
+      },
+      {
+        "type": "1",
+        "code": "4649",
+        "name": "Comerț cu ridicata al altor bunuri de uz gospodăresc"
+      },
+      {
+        "type": "1",
+        "code": "465",
+        "name": "Comerț cu ridicata al echipamentului informatic și de telecomunicații"
+      },
+      {
+        "type": "1",
+        "code": "4650",
+        "name": "Comerț cu ridicata al echipamentului informatic și de telecomunicații"
+      },
+      {
+        "type": "1",
+        "code": "466",
+        "name": "Comerț cu ridicata al altor mașini, echipamente și furnituri"
+      },
+      {
+        "type": "1",
+        "code": "4661",
+        "name": "Comerț cu ridicata al mașinilor agricole, echipamentelor și furniturilor"
+      },
+      {
+        "type": "1",
+        "code": "4662",
+        "name": "Comerț cu ridicata al mașinilor-unelte"
+      },
+      {
+        "type": "1",
+        "code": "4663",
+        "name": "Comerț cu ridicata al mașinilor pentru industria minieră și construcții"
+      },
+      {
+        "type": "1",
+        "code": "4664",
+        "name": "Comerț cu ridicata al altor mașini și echipamente"
+      },
+      {
+        "type": "1",
+        "code": "467",
+        "name": "Comerț cu ridicata al autovehiculelor și motocicletelor; comerț cu ridicata al pieselor și accesoriilor pentru autovehicule și motociclete"
+      },
+      {
+        "type": "1",
+        "code": "4671",
+        "name": "Comerț cu ridicata al autovehiculelor"
+      },
+      {
+        "type": "1",
+        "code": "4672",
+        "name": "Comerț cu ridicata al pieselor și accesoriilor pentru autovehicule"
+      },
+      {
+        "type": "1",
+        "code": "4673",
+        "name": "Comerț cu ridicata al motocicletelor; comerț cu ridicata al pieselor și accesoriilor pentru motociclete"
+      },
+      {
+        "type": "1",
+        "code": "468",
+        "name": "Comerț cu ridicata specializat al altor produse"
+      },
+      {
+        "type": "1",
+        "code": "4681",
+        "name": "Comerț cu ridicata al combustibililor solizi, lichizi și gazoși și al produselor derivate"
+      },
+      {
+        "type": "1",
+        "code": "4682",
+        "name": "Comerț cu ridicata al metalelor și minereurilor metalice"
+      },
+      {
+        "type": "1",
+        "code": "4683",
+        "name": "Comerț cu ridicata al materialului lemnos și al materialelor de construcție și echipamentelor sanitare"
+      },
+      {
+        "type": "1",
+        "code": "4684",
+        "name": "Comerț cu ridicata al echipamentelor și furniturilor de fierărie pentru instalații sanitare și de încălzire"
+      },
+      {
+        "type": "1",
+        "code": "4685",
+        "name": "Comerț cu ridicata al produselor chimice"
+      },
+      {
+        "type": "1",
+        "code": "4686",
+        "name": "Comerț cu ridicata al altor produse intermediare"
+      },
+      {
+        "type": "1",
+        "code": "4687",
+        "name": "Comerț cu ridicata al deșeurilor și resturilor"
+      },
+      {
+        "type": "1",
+        "code": "4689",
+        "name": "Comerț cu ridicata specializat al altor produse n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "469",
+        "name": "Comerț cu ridicata nespecializat"
+      },
+      {
+        "type": "1",
+        "code": "4690",
+        "name": "Comerț cu ridicata nespecializat"
+      },
+      {
+        "type": "1",
+        "code": "471",
+        "name": "Comerț cu amănuntul nespecializat"
+      },
+      {
+        "type": "1",
+        "code": "4711",
+        "name": "Comerț cu amănuntul nespecializat, cu vânzare predominantă de produse alimentare, băuturi și tutun"
+      },
+      {
+        "type": "1",
+        "code": "4712",
+        "name": "Comerț cu amănuntul nespecializat, cu vânzare predominantă de produse nealimentare"
+      },
+      {
+        "type": "1",
+        "code": "472",
+        "name": "Comerț cu amănuntul al produselor alimentare, băuturilor și al produselor din tutun"
+      },
+      {
+        "type": "1",
+        "code": "4721",
+        "name": "Comerț cu amănuntul al fructelor și legumelor proaspete"
+      },
+      {
+        "type": "1",
+        "code": "4722",
+        "name": "Comerț cu amănuntul al cărnii și al produselor din carne"
+      },
+      {
+        "type": "1",
+        "code": "4723",
+        "name": "Comerț cu amănuntul al peștelui, crustaceelor și moluștelor"
+      },
+      {
+        "type": "1",
+        "code": "4724",
+        "name": "Comerț cu amănuntul al pâinii, produselor de patiserie și produselor zaharoase"
+      },
+      {
+        "type": "1",
+        "code": "4725",
+        "name": "Comerț cu amănuntul al băuturilor"
+      },
+      {
+        "type": "1",
+        "code": "4726",
+        "name": "Comerț cu amănuntul al produselor din tutun"
+      },
+      {
+        "type": "1",
+        "code": "4727",
+        "name": "Comerț cu amănuntul al altor produse alimentare"
+      },
+      {
+        "type": "1",
+        "code": "473",
+        "name": "Comerț cu amănuntul al carburanților pentru autovehicule"
+      },
+      {
+        "type": "1",
+        "code": "4730",
+        "name": "Comerț cu amănuntul al carburanților pentru autovehicule"
+      },
+      {
+        "type": "1",
+        "code": "474",
+        "name": "Comerț cu amănuntul al echipamentului informatic și de telecomunicații"
+      },
+      {
+        "type": "1",
+        "code": "4740",
+        "name": "Comerț cu amănuntul al echipamentului informatic și de telecomunicații"
+      },
+      {
+        "type": "1",
+        "code": "475",
+        "name": "Comerț cu amănuntul al altor produse casnice"
+      },
+      {
+        "type": "1",
+        "code": "4751",
+        "name": "Comerț cu amănuntul al textilelor"
+      },
+      {
+        "type": "1",
+        "code": "4752",
+        "name": "Comerț cu amănuntul al articolelor de fierărie, al materialelor de construcții, al articolelor din sticlă și al celor pentru vopsit"
+      },
+      {
+        "type": "1",
+        "code": "4753",
+        "name": "Comerț cu amănuntul al covoarelor, carpetelor, tapetelor și al altor acoperitoare de podea"
+      },
+      {
+        "type": "1",
+        "code": "4754",
+        "name": "Comerț cu amănuntul al articolelor și aparatelor electrocasnice"
+      },
+      {
+        "type": "1",
+        "code": "4755",
+        "name": "Comerț cu amănuntul al mobilei, al articolelor de iluminat și al altor articole de uz casnic n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "476",
+        "name": "Comerț cu amănuntul de bunuri culturale și recreative"
+      },
+      {
+        "type": "1",
+        "code": "4761",
+        "name": "Comerț cu amănuntul al cărților"
+      },
+      {
+        "type": "1",
+        "code": "4762",
+        "name": "Comerț cu amănuntul al ziarelor și articolelor de papetărie"
+      },
+      {
+        "type": "1",
+        "code": "4763",
+        "name": "Comerț cu amănuntul al echipamentelor sportive"
+      },
+      {
+        "type": "1",
+        "code": "4764",
+        "name": "Comerț cu amănuntul al jocurilor și jucăriilor"
+      },
+      {
+        "type": "1",
+        "code": "4769",
+        "name": "Comerț cu amănuntul de bunuri culturale și recreative n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "477",
+        "name": "Comerț cu amănuntul al altor bunuri, cu excepția autovehiculelor și motocicletelor"
+      },
+      {
+        "type": "1",
+        "code": "4771",
+        "name": "Comerț cu amănuntul al îmbrăcăminții"
+      },
+      {
+        "type": "1",
+        "code": "4772",
+        "name": "Comerț cu amănuntul al încălțămintei și articolelor din piele"
+      },
+      {
+        "type": "1",
+        "code": "4773",
+        "name": "Comerț cu amănuntul al produselor farmaceutice"
+      },
+      {
+        "type": "1",
+        "code": "4774",
+        "name": "Comerț cu amănuntul al articolelor medicale și ortopedice"
+      },
+      {
+        "type": "1",
+        "code": "4775",
+        "name": "Comerț cu amănuntul al produselor cosmetice și de parfumerie"
+      },
+      {
+        "type": "1",
+        "code": "4776",
+        "name": "Comerț cu amănuntul al florilor, plantelor și semințelor; comerț cu amănuntul al animalelor de companie și al hranei pentru acestea"
+      },
+      {
+        "type": "1",
+        "code": "4777",
+        "name": "Comerț cu amănuntul al ceasurilor și bijuteriilor"
+      },
+      {
+        "type": "1",
+        "code": "4778",
+        "name": "Comerț cu amănuntul al altor bunuri noi"
+      },
+      {
+        "type": "1",
+        "code": "4779",
+        "name": "Comerț cu amănuntul al bunurilor de ocazie"
+      },
+      {
+        "type": "1",
+        "code": "478",
+        "name": "Comerț cu amănuntul al autovehiculelor și motocicletelor; comerț cu amănuntul al pieselor și accesoriilor pentru autovehicule și motociclete"
+      },
+      {
+        "type": "1",
+        "code": "4781",
+        "name": "Comerț cu amănuntul al autovehiculelor"
+      },
+      {
+        "type": "1",
+        "code": "4782",
+        "name": "Comerț cu amănuntul al pieselor și accesoriilor pentru autovehicule"
+      },
+      {
+        "type": "1",
+        "code": "4783",
+        "name": "Comerț cu amănuntul al motocicletelor; comerț cu amănuntul al pieselor și accesoriilor pentru motociclete"
+      },
+      {
+        "type": "1",
+        "code": "479",
+        "name": "Activități de intermediere în comerțul cu amănuntul"
+      },
+      {
+        "type": "1",
+        "code": "4791",
+        "name": "Intermedieri în comerțul cu amănuntul nespecializat"
+      },
+      {
+        "type": "1",
+        "code": "4792",
+        "name": "Intermedieri în comerțul cu amănuntul specializat"
+      }
+    ]
+  },
+  {
+    "section": "H",
+    "name": "Transport și depozitare",
+    "codes": [
+      {
+        "type": "1",
+        "code": "491",
+        "name": "Transporturi de călători pe calea ferată"
+      },
+      {
+        "type": "1",
+        "code": "4911",
+        "name": "Transport de pasageri pe căi ferate grele/magistrale"
+      },
+      {
+        "type": "1",
+        "code": "4912",
+        "name": "Alte transporturi de pasageri pe căi ferate ușoare"
+      },
+      {
+        "type": "1",
+        "code": "492",
+        "name": "Transporturi de marfă pe calea ferată"
+      },
+      {
+        "type": "1",
+        "code": "4920",
+        "name": "Transporturi de marfă pe calea ferată"
+      },
+      {
+        "type": "1",
+        "code": "493",
+        "name": "Alte transporturi terestre de călători"
+      },
+      {
+        "type": "1",
+        "code": "4931",
+        "name": "Transporturi terestre de pasageri, pe bază de grafic"
+      },
+      {
+        "type": "1",
+        "code": "4932",
+        "name": "Transporturi terestre de pasageri, ocazionale"
+      },
+      {
+        "type": "1",
+        "code": "4933",
+        "name": "Transporturi terestre de pasageri cu vehicule cu șofer, pe bază de comandă"
+      },
+      {
+        "type": "1",
+        "code": "4934",
+        "name": "Transporturi de pasageri cu funiculare, teleferice și schilifturi"
+      },
+      {
+        "type": "1",
+        "code": "4939",
+        "name": "Alte transporturi terestre de călători n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "494",
+        "name": "Transporturi rutiere de mărfuri și servicii de mutare"
+      },
+      {
+        "type": "1",
+        "code": "4941",
+        "name": "Transporturi rutiere de mărfuri"
+      },
+      {
+        "type": "1",
+        "code": "4942",
+        "name": "Servicii de mutare"
+      },
+      {
+        "type": "1",
+        "code": "495",
+        "name": "Transporturi prin conducte"
+      },
+      {
+        "type": "1",
+        "code": "4950",
+        "name": "Transporturi prin conducte"
+      },
+      {
+        "type": "1",
+        "code": "501",
+        "name": "Transporturi maritime și costiere de pasageri"
+      },
+      {
+        "type": "1",
+        "code": "5010",
+        "name": "Transporturi maritime și costiere de pasageri"
+      },
+      {
+        "type": "1",
+        "code": "502",
+        "name": "Transporturi maritime și costiere de marfă"
+      },
+      {
+        "type": "1",
+        "code": "5020",
+        "name": "Transporturi maritime și costiere de marfă"
+      },
+      {
+        "type": "1",
+        "code": "503",
+        "name": "Transporturi de pasageri pe căi navigabile interioare"
+      },
+      {
+        "type": "1",
+        "code": "5030",
+        "name": "Transportul de pasageri pe căi navigabile interioare"
+      },
+      {
+        "type": "1",
+        "code": "504",
+        "name": "Transportul de marfă pe căi navigabile interioare"
+      },
+      {
+        "type": "1",
+        "code": "5040",
+        "name": "Transportul de marfă pe căi navigabile interioare"
+      },
+      {
+        "type": "1",
+        "code": "511",
+        "name": "Transporturi aeriene de pasageri"
+      },
+      {
+        "type": "1",
+        "code": "5110",
+        "name": "Transporturi aeriene de pasageri"
+      },
+      {
+        "type": "1",
+        "code": "512",
+        "name": "Transporturi aeriene de marfă și transporturi spațiale"
+      },
+      {
+        "type": "1",
+        "code": "5121",
+        "name": "Transporturi aeriene de marfă"
+      },
+      {
+        "type": "1",
+        "code": "5122",
+        "name": "Transporturi spațiale"
+      },
+      {
+        "type": "1",
+        "code": "521",
+        "name": "Depozitări"
+      },
+      {
+        "type": "1",
+        "code": "5210",
+        "name": "Depozitări"
+      },
+      {
+        "type": "1",
+        "code": "522",
+        "name": "Activități anexe pentru transporturi"
+      },
+      {
+        "type": "1",
+        "code": "5221",
+        "name": "Activități de servicii anexe pentru transporturi terestre"
+      },
+      {
+        "type": "1",
+        "code": "5222",
+        "name": "Activități de servicii anexe transporturilor pe apă"
+      },
+      {
+        "type": "1",
+        "code": "5223",
+        "name": "Activități de servicii anexe transporturilor aeriene"
+      },
+      {
+        "type": "1",
+        "code": "5224",
+        "name": "Manipulări"
+      },
+      {
+        "type": "1",
+        "code": "5225",
+        "name": "Activități de servicii logistice pentru transporturi"
+      },
+      {
+        "type": "1",
+        "code": "5226",
+        "name": "Alte activități anexe transporturilor"
+      },
+      {
+        "type": "1",
+        "code": "523",
+        "name": "Activități de intermediere pentru transporturi"
+      },
+      {
+        "type": "1",
+        "code": "5231",
+        "name": "Activități de intermediere pentru transportul de marfă"
+      },
+      {
+        "type": "1",
+        "code": "5232",
+        "name": "Activități de intermediere pentru transportul de pasageri"
+      },
+      {
+        "type": "1",
+        "code": "531",
+        "name": "Activități poștale desfășurate sub obligativitatea serviciului universal"
+      },
+      {
+        "type": "1",
+        "code": "5310",
+        "name": "Activități poștale desfășurate sub obligativitatea serviciului universal"
+      },
+      {
+        "type": "1",
+        "code": "532",
+        "name": "Alte activități poștale și de curier"
+      },
+      {
+        "type": "1",
+        "code": "5320",
+        "name": "Alte activități poștale și de curier"
+      },
+      {
+        "type": "1",
+        "code": "533",
+        "name": "Servicii de intermediere pentru activități poștale și de curier"
+      },
+      {
+        "type": "1",
+        "code": "5330",
+        "name": "Servicii de intermediere pentru activități poștale și de curier"
+      }
+    ]
+  },
+  {
+    "section": "I",
+    "name": "Hoteluri și restaurante",
+    "codes": [
+      {
+        "type": "1",
+        "code": "551",
+        "name": "Hoteluri și alte facilități de cazare similare"
+      },
+      {
+        "type": "1",
+        "code": "5510",
+        "name": "Hoteluri și alte facilități de cazare similare"
+      },
+      {
+        "type": "1",
+        "code": "552",
+        "name": "Facilități de cazare pentru vacanțe și perioade de scurtă durată"
+      },
+      {
+        "type": "1",
+        "code": "5520",
+        "name": "Facilități de cazare pentru vacanțe și perioade de scurtă durată"
+      },
+      {
+        "type": "1",
+        "code": "553",
+        "name": "Parcuri pentru rulote, campinguri și tabere"
+      },
+      {
+        "type": "1",
+        "code": "5530",
+        "name": "Parcuri pentru rulote, campinguri și tabere"
+      },
+      {
+        "type": "1",
+        "code": "554",
+        "name": "Intermedieri pentru servicii de cazare"
+      },
+      {
+        "type": "1",
+        "code": "5540",
+        "name": "Intermedieri pentru servicii de cazare"
+      },
+      {
+        "type": "1",
+        "code": "559",
+        "name": "Alte servicii de cazare"
+      },
+      {
+        "type": "1",
+        "code": "5590",
+        "name": "Alte servicii de cazare"
+      },
+      {
+        "type": "1",
+        "code": "561",
+        "name": "Restaurante"
+      },
+      {
+        "type": "1",
+        "code": "5611",
+        "name": "Restaurante"
+      },
+      {
+        "type": "1",
+        "code": "5612",
+        "name": "Activități ale unităților mobile de alimentație"
+      },
+      {
+        "type": "1",
+        "code": "562",
+        "name": "Activități de alimentație (catering) pentru evenimente și alte servicii de alimentație"
+      },
+      {
+        "type": "1",
+        "code": "5621",
+        "name": "Activități de alimentație (catering) pentru evenimente"
+      },
+      {
+        "type": "1",
+        "code": "5622",
+        "name": "Alte servicii de alimentație n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "563",
+        "name": "Baruri și alte activități de servire a băuturilor"
+      },
+      {
+        "type": "1",
+        "code": "5630",
+        "name": "Baruri și alte activități de servire a băuturilor"
+      },
+      {
+        "type": "1",
+        "code": "564",
+        "name": "Intermedieri pentru servicii de alimentație și de servire a băuturilor"
+      },
+      {
+        "type": "1",
+        "code": "5640",
+        "name": "Intermedieri pentru servicii de alimentație și de servire a băuturilor"
+      }
+    ]
+  },
+  {
+    "section": "J",
+    "name": "Activități de editare; difuzarea de programe de radio și televiziune; activități de producție și distribuție de conținuturi",
+    "codes": [
+      {
+        "type": "1",
+        "code": "581",
+        "name": "Activități de editare a cărților, ziarelor, revistelor și alte activități de editare"
+      },
+      {
+        "type": "1",
+        "code": "5811",
+        "name": "Activități de editare a cărților"
+      },
+      {
+        "type": "1",
+        "code": "5812",
+        "name": "Activități de editare a ziarelor"
+      },
+      {
+        "type": "1",
+        "code": "5813",
+        "name": "Activități de editare a revistelor și periodicelor"
+      },
+      {
+        "type": "1",
+        "code": "5819",
+        "name": "Alte activități de editare"
+      },
+      {
+        "type": "1",
+        "code": "582",
+        "name": "Activități de editare a produselor software"
+      },
+      {
+        "type": "1",
+        "code": "5821",
+        "name": "Activități de editare a jocurilor de calculator"
+      },
+      {
+        "type": "1",
+        "code": "5829",
+        "name": "Activități de editare a altor produse software"
+      },
+      {
+        "type": "1",
+        "code": "591",
+        "name": "Activități de producție cinematografică, video și de programe de televiziune"
+      },
+      {
+        "type": "1",
+        "code": "5911",
+        "name": "Activități de producție cinematografică, video și de programe de televiziune"
+      },
+      {
+        "type": "1",
+        "code": "5912",
+        "name": "Activități postproducție cinematografică, video și de programe de televiziune"
+      },
+      {
+        "type": "1",
+        "code": "5913",
+        "name": "Activități de distribuție a filmelor cinematografice, video și a programelor de televiziune"
+      },
+      {
+        "type": "1",
+        "code": "5914",
+        "name": "Proiecția de filme cinematografice"
+      },
+      {
+        "type": "1",
+        "code": "592",
+        "name": "Activități de realizare a înregistrărilor audio și activități de editare muzicală"
+      },
+      {
+        "type": "1",
+        "code": "5920",
+        "name": "Activități de realizare a înregistrărilor audio și activități de editare muzicală"
+      },
+      {
+        "type": "1",
+        "code": "601",
+        "name": "Activități de radiodifuziune, activități de distribuție de programe audio"
+      },
+      {
+        "type": "1",
+        "code": "6010",
+        "name": "Activități de radiodifuziune, activități de distribuție de programe audio"
+      },
+      {
+        "type": "1",
+        "code": "602",
+        "name": "Activități de difuzare a programelor de televiziune, activități de distribuție de programe video"
+      },
+      {
+        "type": "1",
+        "code": "6020",
+        "name": "Activități de difuzare a programelor de televiziune, activități de distribuție de programe video"
+      },
+      {
+        "type": "1",
+        "code": "603",
+        "name": "Activități ale agențiilor de știri și de distribuție a altor conținuturi"
+      },
+      {
+        "type": "1",
+        "code": "6031",
+        "name": "Activități ale agențiilor de știri"
+      },
+      {
+        "type": "1",
+        "code": "6039",
+        "name": "Activități de distribuție a altor conținuturi"
+      }
+    ]
+  },
+  {
+    "section": "K",
+    "name": "Telecomunicații; activități de programare și de consultanță în tehnologia informației; alte servicii informaționale",
+    "codes": [
+      {
+        "type": "1",
+        "code": "611",
+        "name": "Activități de telecomunicații prin rețele cu cablu, prin rețele fără cablu și prin satelit"
+      },
+      {
+        "type": "1",
+        "code": "6110",
+        "name": "Activități de telecomunicații prin rețele cu cablu, prin rețele fără cablu și prin satelit"
+      },
+      {
+        "type": "1",
+        "code": "612",
+        "name": "Activități de revânzare a serviciilor de telecomunicații și servicii de intermediere pentru telecomunicații"
+      },
+      {
+        "type": "1",
+        "code": "6120",
+        "name": "Activități de revânzare a serviciilor de telecomunicații și servicii de intermediere pentru telecomunicații"
+      },
+      {
+        "type": "1",
+        "code": "619",
+        "name": "Alte activități de telecomunicații"
+      },
+      {
+        "type": "1",
+        "code": "6190",
+        "name": "Alte activități de telecomunicații"
+      },
+      {
+        "type": "1",
+        "code": "621",
+        "name": "Activități de programare"
+      },
+      {
+        "type": "1",
+        "code": "6210",
+        "name": "Activități de realizare a softului la comandă (software orientat client)"
+      },
+      {
+        "type": "1",
+        "code": "622",
+        "name": "Activități de consultanță în tehnologia informației și de management (gestiune și exploatare) almijloacelor de calcul"
+      },
+      {
+        "type": "1",
+        "code": "6220",
+        "name": "Activități de consultanță în tehnologia informației și de management (gestiune și exploatare) al mijloacelor de calcul"
+      },
+      {
+        "type": "1",
+        "code": "629",
+        "name": "Alte activități de servicii privind tehnologia informației"
+      },
+      {
+        "type": "1",
+        "code": "6290",
+        "name": "Alte activități de servicii privind tehnologia informației"
+      },
+      {
+        "type": "1",
+        "code": "631",
+        "name": "Prelucrarea datelor, administrarea paginilor web și activități conexe"
+      },
+      {
+        "type": "1",
+        "code": "6310",
+        "name": "Prelucrarea datelor, administrarea paginilor web și activități conexe"
+      },
+      {
+        "type": "1",
+        "code": "639",
+        "name": "Activități ale portalurilor web și alte activități de servicii informaționale"
+      },
+      {
+        "type": "1",
+        "code": "6391",
+        "name": "Activități ale portalurilor web"
+      },
+      {
+        "type": "1",
+        "code": "6392",
+        "name": "Alte activități de servicii informaționale n.c.a."
+      }
+    ]
+  },
+  {
+    "section": "L",
+    "name": "Intermedieri financiare și asigurări",
+    "codes": [
+      {
+        "type": "1",
+        "code": "641",
+        "name": "Intermediere monetară"
+      },
+      {
+        "type": "1",
+        "code": "6411",
+        "name": "Activități ale băncii centrale (naționale)"
+      },
+      {
+        "type": "1",
+        "code": "6419",
+        "name": "Alte activități de intermedieri monetare"
+      },
+      {
+        "type": "1",
+        "code": "642",
+        "name": "Activități ale holdingurilor și canalelor de finanțare"
+      },
+      {
+        "type": "1",
+        "code": "6421",
+        "name": "Activități ale holdingurilor"
+      },
+      {
+        "type": "1",
+        "code": "6422",
+        "name": "Activități ale canalelor de finanțare"
+      },
+      {
+        "type": "1",
+        "code": "643",
+        "name": "Activități ale fondurilor de investiții; fonduri mutuale și alte entități financiare similare"
+      },
+      {
+        "type": "1",
+        "code": "6431",
+        "name": "Activități ale fondurilor de investiții de pe piața monetară și ale fondurilor de investiții din afara pieței monetare"
+      },
+      {
+        "type": "1",
+        "code": "6432",
+        "name": "Fonduri mutuale și alte entități financiare similare"
+      },
+      {
+        "type": "1",
+        "code": "649",
+        "name": "Alte activități de intermedieri financiare, exceptând activități de asigurări și fonduri de pensii"
+      },
+      {
+        "type": "1",
+        "code": "6491",
+        "name": "Leasing financiar"
+      },
+      {
+        "type": "1",
+        "code": "6492",
+        "name": "Alte activități de creditare"
+      },
+      {
+        "type": "1",
+        "code": "6499",
+        "name": "Alte intermedieri financiare n.c.a., exceptând activități de asigurări și fonduri de pensii"
+      },
+      {
+        "type": "1",
+        "code": "651",
+        "name": "Activități de asigurări"
+      },
+      {
+        "type": "1",
+        "code": "6511",
+        "name": "Activități de asigurări de viață"
+      },
+      {
+        "type": "1",
+        "code": "6512",
+        "name": "Alte activități de asigurări (exceptând asigurările de viață)"
+      },
+      {
+        "type": "1",
+        "code": "652",
+        "name": "Activități de reasigurare"
+      },
+      {
+        "type": "1",
+        "code": "6520",
+        "name": "Activități de reasigurare"
+      },
+      {
+        "type": "1",
+        "code": "653",
+        "name": "Activități ale fondurilor de pensii (cu excepția celor din sistemul public de asigurări sociale)"
+      },
+      {
+        "type": "1",
+        "code": "6530",
+        "name": "Activități ale fondurilor de pensii (cu excepția celor din sistemul public de asigurări sociale)"
+      },
+      {
+        "type": "1",
+        "code": "661",
+        "name": "Activități auxiliare intermedierilor financiare, cu excepția activităților de asigurări și fonduri de pensii"
+      },
+      {
+        "type": "1",
+        "code": "6611",
+        "name": "Administrarea piețelor financiare"
+      },
+      {
+        "type": "1",
+        "code": "6612",
+        "name": "Activități de intermediere a tranzacțiilor financiare"
+      },
+      {
+        "type": "1",
+        "code": "6619",
+        "name": "Activități auxiliare intermedierilor financiare, exceptând activități de asigurări și fonduri de pensii"
+      },
+      {
+        "type": "1",
+        "code": "662",
+        "name": "Activități auxiliare de asigurări și fonduri de pensii"
+      },
+      {
+        "type": "1",
+        "code": "6621",
+        "name": "Activități de evaluare a riscului de asigurare și a pagubelor"
+      },
+      {
+        "type": "1",
+        "code": "6622",
+        "name": "Activități ale agenților și brokerilor de asigurări"
+      },
+      {
+        "type": "1",
+        "code": "6629",
+        "name": "Alte activități auxiliare de asigurări și fonduri de pensii"
+      },
+      {
+        "type": "1",
+        "code": "663",
+        "name": "Activități de administrare a fondurilor"
+      },
+      {
+        "type": "1",
+        "code": "6630",
+        "name": "Activități de administrare a fondurilor"
+      }
+    ]
+  },
+  {
+    "section": "M",
+    "name": "Tranzacții imobiliare",
+    "codes": [
+      {
+        "type": "1",
+        "code": "681",
+        "name": "Cumpărarea și vânzarea de bunuri imobiliare proprii și dezvoltare imobiliară"
+      },
+      {
+        "type": "1",
+        "code": "6811",
+        "name": "Cumpărarea și vânzarea de bunuri imobiliare proprii"
+      },
+      {
+        "type": "1",
+        "code": "6812",
+        "name": "Dezvoltare (promovare) imobiliară"
+      },
+      {
+        "type": "1",
+        "code": "682",
+        "name": "Închirierea și subînchirierea bunurilor imobiliare proprii sau închiriate"
+      },
+      {
+        "type": "1",
+        "code": "6820",
+        "name": "Închirierea și subînchirierea bunurilor imobiliare proprii sau închiriate"
+      },
+      {
+        "type": "1",
+        "code": "683",
+        "name": "Activități imobiliare pe bază de comision sau contract"
+      },
+      {
+        "type": "1",
+        "code": "6831",
+        "name": "Servicii de intermediere a tranzacțiilor imobiliare"
+      },
+      {
+        "type": "1",
+        "code": "6832",
+        "name": "Alte activități pentru tranzacții imobiliare pe bază de comision sau contract"
+      }
+    ]
+  },
+  {
+    "section": "N",
+    "name": "Activități profesionale, științifice și tehnice",
+    "codes": [
+      {
+        "type": "1",
+        "code": "691",
+        "name": "Activități juridice"
+      },
+      {
+        "type": "1",
+        "code": "6910",
+        "name": "Activități juridice"
+      },
+      {
+        "type": "1",
+        "code": "692",
+        "name": "Activități de contabilitate și audit financiar; consultanță în domeniul fiscal"
+      },
+      {
+        "type": "1",
+        "code": "6920",
+        "name": "Activități de contabilitate și audit financiar; consultanță în domeniul fiscal"
+      },
+      {
+        "type": "1",
+        "code": "701",
+        "name": "Activități ale direcțiilor (centralelor), birourilor administrative centralizate"
+      },
+      {
+        "type": "1",
+        "code": "7010",
+        "name": "Activități ale direcțiilor (centralelor), birourilor administrative centralizate"
+      },
+      {
+        "type": "1",
+        "code": "702",
+        "name": "Activități de consultanță în afaceri și management"
+      },
+      {
+        "type": "1",
+        "code": "7020",
+        "name": "Activități de consultanță în afaceri și management"
+      },
+      {
+        "type": "1",
+        "code": "711",
+        "name": "Activități de arhitectură, inginerie și servicii de consultanță tehnică legate de acestea"
+      },
+      {
+        "type": "1",
+        "code": "7111",
+        "name": "Activități de arhitectură"
+      },
+      {
+        "type": "1",
+        "code": "7112",
+        "name": "Activități de inginerie și consultanță tehnică legate de acestea"
+      },
+      {
+        "type": "1",
+        "code": "712",
+        "name": "Activități de testări și analize tehnice"
+      },
+      {
+        "type": "1",
+        "code": "7120",
+        "name": "Activități de testări și analize tehnice"
+      },
+      {
+        "type": "1",
+        "code": "721",
+        "name": "Cercetare-dezvoltare în științe naturale și inginerie"
+      },
+      {
+        "type": "1",
+        "code": "7210",
+        "name": "Cercetare-dezvoltare în științe naturale și inginerie"
+      },
+      {
+        "type": "1",
+        "code": "722",
+        "name": "Cercetare-dezvoltare în științe sociale și umaniste"
+      },
+      {
+        "type": "1",
+        "code": "7220",
+        "name": "Cercetare-dezvoltare în științe sociale și umaniste"
+      },
+      {
+        "type": "1",
+        "code": "731",
+        "name": "Publicitate"
+      },
+      {
+        "type": "1",
+        "code": "7311",
+        "name": "Activități ale agențiilor de publicitate"
+      },
+      {
+        "type": "1",
+        "code": "7312",
+        "name": "Servicii de reprezentare media"
+      },
+      {
+        "type": "1",
+        "code": "732",
+        "name": "Activități de studiere a pieței și de sondare a opiniei publice"
+      },
+      {
+        "type": "1",
+        "code": "7320",
+        "name": "Activități de studiere a pieței și de sondare a opiniei publice"
+      },
+      {
+        "type": "1",
+        "code": "733",
+        "name": "Activități în domeniul relațiilor publice și al comunicării"
+      },
+      {
+        "type": "1",
+        "code": "7330",
+        "name": "Activități în domeniul relațiilor publice și al comunicării"
+      },
+      {
+        "type": "1",
+        "code": "741",
+        "name": "Activități de design specializat"
+      },
+      {
+        "type": "1",
+        "code": "7411",
+        "name": "Activități de design industrial și vestimentar"
+      },
+      {
+        "type": "1",
+        "code": "7412",
+        "name": "Design grafic și activități de comunicare vizuală"
+      },
+      {
+        "type": "1",
+        "code": "7413",
+        "name": "Activități de design de interior"
+      },
+      {
+        "type": "1",
+        "code": "7414",
+        "name": "Alte activități de design specializat"
+      },
+      {
+        "type": "1",
+        "code": "742",
+        "name": "Activități fotografice"
+      },
+      {
+        "type": "1",
+        "code": "7420",
+        "name": "Activități fotografice"
+      },
+      {
+        "type": "1",
+        "code": "743",
+        "name": "Activități de traducere scrisă și orală (interpreți)"
+      },
+      {
+        "type": "1",
+        "code": "7430",
+        "name": "Activități de traducere scrisă și orală (interpreți)"
+      },
+      {
+        "type": "1",
+        "code": "749",
+        "name": "Alte activități profesionale, științifice și tehnice n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "7491",
+        "name": "Activități de brokeraj în materie de brevete și servicii de marketing"
+      },
+      {
+        "type": "1",
+        "code": "7499",
+        "name": "Alte activități profesionale, științifice și tehnice n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "750",
+        "name": "Activități veterinare"
+      },
+      {
+        "type": "1",
+        "code": "7500",
+        "name": "Activități veterinare"
+      }
+    ]
+  },
+  {
+    "section": "O",
+    "name": "Activități de servicii administrative și activități de servicii-suport",
+    "codes": [
+      {
+        "type": "1",
+        "code": "771",
+        "name": "Activități de închiriere și leasing cu autovehicule"
+      },
+      {
+        "type": "1",
+        "code": "7711",
+        "name": "Activități de închiriere și leasing cu autoturisme și autovehicule rutiere ușoare"
+      },
+      {
+        "type": "1",
+        "code": "7712",
+        "name": "Activități de închiriere și leasing cu autovehicule rutiere grele"
+      },
+      {
+        "type": "1",
+        "code": "772",
+        "name": "Activități de închiriere și leasing cu bunuri personale și gospodărești"
+      },
+      {
+        "type": "1",
+        "code": "7721",
+        "name": "Activități de închiriere și leasing cu bunuri recreaționale și echipament sportiv"
+      },
+      {
+        "type": "1",
+        "code": "7722",
+        "name": "Activități de închiriere și leasing cu alte bunuri personale și gospodărești n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "773",
+        "name": "Activități de închiriere și leasing cu alte mașini, echipamente și bunuri tangibile"
+      },
+      {
+        "type": "1",
+        "code": "7731",
+        "name": "Activități de închiriere și leasing cu mașini și echipamente agricole"
+      },
+      {
+        "type": "1",
+        "code": "7732",
+        "name": "Activități de închiriere și leasing cu mașini și echipamente pentru construcții"
+      },
+      {
+        "type": "1",
+        "code": "7733",
+        "name": "Activități de închiriere și leasing cu mașini și echipamente de birou (inclusiv calculatoare)"
+      },
+      {
+        "type": "1",
+        "code": "7734",
+        "name": "Activități de închiriere și leasing cu echipamente de transport pe apă"
+      },
+      {
+        "type": "1",
+        "code": "7735",
+        "name": "Activități de închiriere și leasing cu echipamente de transport aerian"
+      },
+      {
+        "type": "1",
+        "code": "7739",
+        "name": "Activități de închiriere și leasing cu alte mașini, echipamente și bunuri tangibile n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "774",
+        "name": "Leasing cu bunuri intangibile (cu excepția lucrărilor care fac obiectul drepturilor de autor)"
+      },
+      {
+        "type": "1",
+        "code": "7740",
+        "name": "Leasing cu bunuri intangibile (cu excepția lucrărilor care fac obiectul drepturilor de autor)"
+      },
+      {
+        "type": "1",
+        "code": "775",
+        "name": "Servicii de intermediere pentru închirierea și leasingul de bunuri corporale și bunuri intangibile (exceptând financiare)"
+      },
+      {
+        "type": "1",
+        "code": "7751",
+        "name": "Servicii de intermediere pentru închirierea și leasingul autoturismelor, autorulotelor și remorcilor"
+      },
+      {
+        "type": "1",
+        "code": "7752",
+        "name": "Servicii de intermediere pentru închirierea și leasingul altor bunuri corporale și bunuri intangibile (exceptând financiare)"
+      },
+      {
+        "type": "1",
+        "code": "781",
+        "name": "Activități ale agențiilor de plasare a forței de muncă"
+      },
+      {
+        "type": "1",
+        "code": "7810",
+        "name": "Activități ale agențiilor de plasare a forței de muncă"
+      },
+      {
+        "type": "1",
+        "code": "782",
+        "name": "Activități ale agențiilor de plasare temporară a forței de muncă și furnizarea altor resurse umane"
+      },
+      {
+        "type": "1",
+        "code": "7820",
+        "name": "Activități ale agențiilor de plasare temporară a forței de muncă și furnizarea altor resurse umane"
+      },
+      {
+        "type": "1",
+        "code": "791",
+        "name": "Activități ale agențiilor turistice și ale tur-operatorilor"
+      },
+      {
+        "type": "1",
+        "code": "7911",
+        "name": "Activități ale agențiilor turistice"
+      },
+      {
+        "type": "1",
+        "code": "7912",
+        "name": "Activități ale tur-operatorilor"
+      },
+      {
+        "type": "1",
+        "code": "799",
+        "name": "Alte servicii de rezervare și asistență turistică"
+      },
+      {
+        "type": "1",
+        "code": "7990",
+        "name": "Alte servicii de rezervare și asistență turistică"
+      },
+      {
+        "type": "1",
+        "code": "800",
+        "name": "Activități de investigații și protecție"
+      },
+      {
+        "type": "1",
+        "code": "8001",
+        "name": "Activități de investigații și servicii private de protecție"
+      },
+      {
+        "type": "1",
+        "code": "8009",
+        "name": "Alte activități de protecție n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "811",
+        "name": "Activități de servicii-suport combinate"
+      },
+      {
+        "type": "1",
+        "code": "8110",
+        "name": "Activități de servicii-suport combinate"
+      },
+      {
+        "type": "1",
+        "code": "812",
+        "name": "Activități de curățenie"
+      },
+      {
+        "type": "1",
+        "code": "8121",
+        "name": "Activități generale de curățenie a clădirilor"
+      },
+      {
+        "type": "1",
+        "code": "8122",
+        "name": "Activități specializate de curățenie"
+      },
+      {
+        "type": "1",
+        "code": "8123",
+        "name": "Alte activități de curățenie"
+      },
+      {
+        "type": "1",
+        "code": "813",
+        "name": "Activități de întreținere peisagistică"
+      },
+      {
+        "type": "1",
+        "code": "8130",
+        "name": "Activități de întreținere peisagistică"
+      },
+      {
+        "type": "1",
+        "code": "821",
+        "name": "Activități de secretariat și servicii-suport"
+      },
+      {
+        "type": "1",
+        "code": "8210",
+        "name": "Activități de secretariat și servicii-suport"
+      },
+      {
+        "type": "1",
+        "code": "822",
+        "name": "Activități ale centrelor de intermediere telefonică (call center)"
+      },
+      {
+        "type": "1",
+        "code": "8220",
+        "name": "Activități ale centrelor de intermediere telefonică (call center)"
+      },
+      {
+        "type": "1",
+        "code": "823",
+        "name": "Activități de organizare a expozițiilor, târgurilor și congreselor"
+      },
+      {
+        "type": "1",
+        "code": "8230",
+        "name": "Activități de organizare a expozițiilor, târgurilor și congreselor"
+      },
+      {
+        "type": "1",
+        "code": "824",
+        "name": "Activități de intermediere pentru servicii-suport pentru întreprinderi n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "8240",
+        "name": "Activități de intermediere pentru servicii-suport pentru întreprinderi n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "829",
+        "name": "Activități de servicii-suport pentru întreprinderi n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "8291",
+        "name": "Activități ale agențiilor de colectare și ale birourilor (oficiilor) de raportare a creditului"
+      },
+      {
+        "type": "1",
+        "code": "8292",
+        "name": "Activități de ambalare"
+      },
+      {
+        "type": "1",
+        "code": "8299",
+        "name": "Alte activități de servicii-suport pentru întreprinderi n.c.a."
+      }
+    ]
+  },
+  {
+    "section": "P",
+    "name": "Administrație publică și apărare; asigurări sociale din sistemul public",
+    "codes": [
+      {
+        "type": "1",
+        "code": "841",
+        "name": "Administrație publică generală, economică și socială"
+      },
+      {
+        "type": "1",
+        "code": "8411",
+        "name": "Activități de administrație publică generală"
+      },
+      {
+        "type": "1",
+        "code": "8412",
+        "name": "Reglementarea activităților organismelor care prestează servicii în domeniul îngrijirii sănătății, învățământului, culturii și al altor activități sociale, exceptând protecția socială"
+      },
+      {
+        "type": "1",
+        "code": "8413",
+        "name": "Reglementarea și eficientizarea activităților economice"
+      },
+      {
+        "type": "1",
+        "code": "842",
+        "name": "Activități de servicii pentru societate"
+      },
+      {
+        "type": "1",
+        "code": "8421",
+        "name": "Activități de afaceri externe"
+      },
+      {
+        "type": "1",
+        "code": "8422",
+        "name": "Activități de apărare națională"
+      },
+      {
+        "type": "1",
+        "code": "8423",
+        "name": "Activități de justiție"
+      },
+      {
+        "type": "1",
+        "code": "8424",
+        "name": "Activități de ordine publică și de protecție civilă"
+      },
+      {
+        "type": "1",
+        "code": "8425",
+        "name": "Activități de luptă împotriva incendiilor și de prevenire a acestora"
+      },
+      {
+        "type": "1",
+        "code": "843",
+        "name": "Activități de protecție socială obligatorie"
+      },
+      {
+        "type": "1",
+        "code": "8430",
+        "name": "Activități de protecție socială obligatorie"
+      }
+    ]
+  },
+  {
+    "section": "Q",
+    "name": "Învățământ",
+    "codes": [
+      {
+        "type": "1",
+        "code": "851",
+        "name": "Învățământ preșcolar"
+      },
+      {
+        "type": "1",
+        "code": "8510",
+        "name": "Învățământ preșcolar"
+      },
+      {
+        "type": "1",
+        "code": "852",
+        "name": "Învățământ primar"
+      },
+      {
+        "type": "1",
+        "code": "8520",
+        "name": "Învățământ primar"
+      },
+      {
+        "type": "1",
+        "code": "853",
+        "name": "Învățământ secundar"
+      },
+      {
+        "type": "1",
+        "code": "8531",
+        "name": "Învățământ secundar general"
+      },
+      {
+        "type": "1",
+        "code": "8532",
+        "name": "Învățământ secundar, tehnic sau profesional"
+      },
+      {
+        "type": "1",
+        "code": "8533",
+        "name": "Învățământ postsecundar, nonuniversitar"
+      },
+      {
+        "type": "1",
+        "code": "854",
+        "name": "Învățământ superior"
+      },
+      {
+        "type": "1",
+        "code": "8540",
+        "name": "Învățământ superior universitar"
+      },
+      {
+        "type": "1",
+        "code": "855",
+        "name": "Alte forme de învățământ"
+      },
+      {
+        "type": "1",
+        "code": "8551",
+        "name": "Învățământ în domeniul sportiv și recreațional"
+      },
+      {
+        "type": "1",
+        "code": "8552",
+        "name": "Învățământ în domeniul cultural (muzică, teatru, dans, arte plastice etc.)"
+      },
+      {
+        "type": "1",
+        "code": "8553",
+        "name": "Școli de conducere (pilotaj)"
+      },
+      {
+        "type": "1",
+        "code": "8559",
+        "name": "Alte forme de învățământ n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "856",
+        "name": "Activități de servicii-suport pentru învățământ"
+      },
+      {
+        "type": "1",
+        "code": "8561",
+        "name": "Activități de intermediere pentru cursuri și tutori (îndrumători, profesori)"
+      },
+      {
+        "type": "1",
+        "code": "8569",
+        "name": "Activități de servicii-suport pentru învățământ"
+      }
+    ]
+  },
+  {
+    "section": "R",
+    "name": "Sănătate și asistență socială",
+    "codes": [
+      {
+        "type": "1",
+        "code": "861",
+        "name": "Activități de asistență spitalicească"
+      },
+      {
+        "type": "1",
+        "code": "8610",
+        "name": "Activități de asistență spitalicească"
+      },
+      {
+        "type": "1",
+        "code": "862",
+        "name": "Activități de asistență medicală ambulatorie și stomatologică"
+      },
+      {
+        "type": "1",
+        "code": "8621",
+        "name": "Activități de asistență medicală generală"
+      },
+      {
+        "type": "1",
+        "code": "8622",
+        "name": "Activități de asistență medicală specializată"
+      },
+      {
+        "type": "1",
+        "code": "8623",
+        "name": "Activități de asistență stomatologică"
+      },
+      {
+        "type": "1",
+        "code": "869",
+        "name": "Alte activități referitoare la sănătatea umană"
+      },
+      {
+        "type": "1",
+        "code": "8691",
+        "name": "Servicii de diagnostic imagistic și activități ale laboratoarelor medicale"
+      },
+      {
+        "type": "1",
+        "code": "8692",
+        "name": "Transportul pacienților cu ambulanța"
+      },
+      {
+        "type": "1",
+        "code": "8693",
+        "name": "Activități ale psihologilor și psihoterapeuților, cu excepția medicilor"
+      },
+      {
+        "type": "1",
+        "code": "8694",
+        "name": "Activități ale infirmierelor și moașelor"
+      },
+      {
+        "type": "1",
+        "code": "8695",
+        "name": "Activități de fizioterapie"
+      },
+      {
+        "type": "1",
+        "code": "8696",
+        "name": "Activități de medicină tradițională, complementară și alternativă"
+      },
+      {
+        "type": "1",
+        "code": "8697",
+        "name": "Servicii de intermediere pentru servicii medicale, stomatologice și pentru alte servicii referitoare la sănătatea umană"
+      },
+      {
+        "type": "1",
+        "code": "8699",
+        "name": "Alte activități referitoare la sănătatea umană n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "871",
+        "name": "Activități ale centrelor de îngrijire medicală"
+      },
+      {
+        "type": "1",
+        "code": "8710",
+        "name": "Activități ale centrelor de îngrijire medicală"
+      },
+      {
+        "type": "1",
+        "code": "872",
+        "name": "Activități ale centrelor de recuperare psihică și de dezintoxicare, exclusiv spitale"
+      },
+      {
+        "type": "1",
+        "code": "8720",
+        "name": "Activități ale centrelor de recuperare psihică și de dezintoxicare, exclusiv spitale"
+      },
+      {
+        "type": "1",
+        "code": "873",
+        "name": "Activități ale căminelor de bătrâni și ale căminelor pentru persoane cu dizabilități aflate în incapacitate de a se îngriji singure"
+      },
+      {
+        "type": "1",
+        "code": "8730",
+        "name": "Activități ale căminelor de bătrâni și ale căminelor pentru persoane cu dizabilități aflate în incapacitate de a se îngriji singure"
+      },
+      {
+        "type": "1",
+        "code": "879",
+        "name": "Alte activități de asistență socială, cu cazare"
+      },
+      {
+        "type": "1",
+        "code": "8791",
+        "name": "Activități de intermediere pentru servicii de îngrijire la domiciliu"
+      },
+      {
+        "type": "1",
+        "code": "8799",
+        "name": "Alte activități de asistență socială, cu cazare n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "881",
+        "name": "Activități de asistență socială, fără cazare, pentru bătrâni și pentru persoane cu dizabilități aflate în incapacitate de a se îngriji singure"
+      },
+      {
+        "type": "1",
+        "code": "8810",
+        "name": "Activități de asistență socială, fără cazare, pentru bătrâni și pentru persoane cu dizabilități aflate în incapacitate de a se îngriji singure"
+      },
+      {
+        "type": "1",
+        "code": "889",
+        "name": "Alte activități de asistență socială, fără cazare"
+      },
+      {
+        "type": "1",
+        "code": "8891",
+        "name": "Activități de îngrijire zilnică pentru copii"
+      },
+      {
+        "type": "1",
+        "code": "8899",
+        "name": "Alte activități de asistență socială, fără cazare, n.c.a."
+      }
+    ]
+  },
+  {
+    "section": "S",
+    "name": "Activități de spectacole, culturale, sportive și recreative",
+    "codes": [
+      {
+        "type": "1",
+        "code": "901",
+        "name": "Activități de creație artistică"
+      },
+      {
+        "type": "1",
+        "code": "9011",
+        "name": "Activități de creație literară și compoziție muzicală"
+      },
+      {
+        "type": "1",
+        "code": "9012",
+        "name": "Activități de creație în domeniul artelor vizuale"
+      },
+      {
+        "type": "1",
+        "code": "9013",
+        "name": "Alte activități de creație artistică"
+      },
+      {
+        "type": "1",
+        "code": "902",
+        "name": "Activități de interpretare artistică (spectacole)"
+      },
+      {
+        "type": "1",
+        "code": "9020",
+        "name": "Activități de interpretare artistică (spectacole)"
+      },
+      {
+        "type": "1",
+        "code": "903",
+        "name": "Activități-suport pentru creație și interpretare artistică"
+      },
+      {
+        "type": "1",
+        "code": "9031",
+        "name": "Activități de gestionare a sălilor și amplasamentelor de spectacole"
+      },
+      {
+        "type": "1",
+        "code": "9039",
+        "name": "Alte activități-suport pentru creație și interpretare artistică"
+      },
+      {
+        "type": "1",
+        "code": "911",
+        "name": "Activități ale bibliotecilor și arhivelor"
+      },
+      {
+        "type": "1",
+        "code": "9111",
+        "name": "Activități ale bibliotecilor"
+      },
+      {
+        "type": "1",
+        "code": "9112",
+        "name": "Activități ale arhivelor"
+      },
+      {
+        "type": "1",
+        "code": "912",
+        "name": "Activități ale muzeelor, colecțiilor, siturilor și monumentelor istorice"
+      },
+      {
+        "type": "1",
+        "code": "9121",
+        "name": "Activități ale muzeelor și colecțiilor"
+      },
+      {
+        "type": "1",
+        "code": "9122",
+        "name": "Activități ale siturilor și monumentelor istorice"
+      },
+      {
+        "type": "1",
+        "code": "913",
+        "name": "Activități de conservare, restaurare și alte activități-suport pentru patrimoniul cultural"
+      },
+      {
+        "type": "1",
+        "code": "9130",
+        "name": "Activități de conservare, restaurare și alte activități-suport pentru patrimoniul cultural"
+      },
+      {
+        "type": "1",
+        "code": "914",
+        "name": "Activități ale grădinilor botanice, zoologice și ale rezervațiilor naturale"
+      },
+      {
+        "type": "1",
+        "code": "9141",
+        "name": "Activități ale grădinilor botanice și zoologice"
+      },
+      {
+        "type": "1",
+        "code": "9142",
+        "name": "Activități ale rezervațiilor naturale"
+      },
+      {
+        "type": "1",
+        "code": "920",
+        "name": "Activități de jocuri de noroc și pariuri"
+      },
+      {
+        "type": "1",
+        "code": "9200",
+        "name": "Activități de jocuri de noroc și pariuri"
+      },
+      {
+        "type": "1",
+        "code": "931",
+        "name": "Activități sportive"
+      },
+      {
+        "type": "1",
+        "code": "9311",
+        "name": "Activități ale bazelor sportive"
+      },
+      {
+        "type": "1",
+        "code": "9312",
+        "name": "Activități ale cluburilor sportive"
+      },
+      {
+        "type": "1",
+        "code": "9313",
+        "name": "Activități ale centrelor de fitness"
+      },
+      {
+        "type": "1",
+        "code": "9319",
+        "name": "Alte activități sportive n.c.a"
+      },
+      {
+        "type": "1",
+        "code": "932",
+        "name": "Alte activități recreative și distractive"
+      },
+      {
+        "type": "1",
+        "code": "9321",
+        "name": "Activități ale parcurilor tematice și de distracții"
+      },
+      {
+        "type": "1",
+        "code": "9329",
+        "name": "Alte activități recreative și distractive n.c.a."
+      }
+    ]
+  },
+  {
+    "section": "T",
+    "name": "Alte activități de servicii",
+    "codes": [
+      {
+        "type": "1",
+        "code": "941",
+        "name": "Activități ale organizațiilor economice, patronale și profesionale"
+      },
+      {
+        "type": "1",
+        "code": "9411",
+        "name": "Activități ale organizațiilor economice și patronale"
+      },
+      {
+        "type": "1",
+        "code": "9412",
+        "name": "Activități ale organizațiilor profesionale"
+      },
+      {
+        "type": "1",
+        "code": "942",
+        "name": "Activități ale sindicatelor salariaților"
+      },
+      {
+        "type": "1",
+        "code": "9420",
+        "name": "Activități ale sindicatelor salariaților"
+      },
+      {
+        "type": "1",
+        "code": "949",
+        "name": "Alte activități asociative"
+      },
+      {
+        "type": "1",
+        "code": "9491",
+        "name": "Activități ale organizațiilor religioase"
+      },
+      {
+        "type": "1",
+        "code": "9492",
+        "name": "Activități ale organizațiilor politice"
+      },
+      {
+        "type": "1",
+        "code": "9499",
+        "name": "Activități ale altor organizații n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "951",
+        "name": "Repararea și întreținerea calculatoarelor și a echipamentelor de comunicații"
+      },
+      {
+        "type": "1",
+        "code": "9510",
+        "name": "Repararea și întreținerea calculatoarelor și a echipamentelor de comunicații"
+      },
+      {
+        "type": "1",
+        "code": "952",
+        "name": "Repararea și întreținerea articolelor personale și de uz gospodăresc"
+      },
+      {
+        "type": "1",
+        "code": "9521",
+        "name": "Repararea și întreținerea aparatelor electronice de uz casnic"
+      },
+      {
+        "type": "1",
+        "code": "9522",
+        "name": "Repararea și întreținerea dispozitivelor de uz gospodăresc și a echipamentelor pentru casă și grădină"
+      },
+      {
+        "type": "1",
+        "code": "9523",
+        "name": "Repararea și întreținerea încălțămintei și a articolelor din piele"
+      },
+      {
+        "type": "1",
+        "code": "9524",
+        "name": "Repararea și întreținerea mobilei și a furniturilor casnice"
+      },
+      {
+        "type": "1",
+        "code": "9525",
+        "name": "Repararea și întreținerea ceasurilor și a bijuteriilor"
+      },
+      {
+        "type": "1",
+        "code": "9529",
+        "name": "Repararea și întreținerea articolelor de uz personal și gospodăresc n.c.a."
+      },
+      {
+        "type": "1",
+        "code": "953",
+        "name": "Repararea și întreținerea autovehiculelor și motocicletelor"
+      },
+      {
+        "type": "1",
+        "code": "9531",
+        "name": "Repararea și întreținerea autovehiculelor"
+      },
+      {
+        "type": "1",
+        "code": "9532",
+        "name": "Repararea și întreținerea motocicletelor"
+      },
+      {
+        "type": "1",
+        "code": "954",
+        "name": "Servicii de intermediere pentru repararea și întreținerea calculatoarelor, a articolelor personale și de uz gospodăresc, a autovehiculelor și motocicletelor"
+      },
+      {
+        "type": "1",
+        "code": "9540",
+        "name": "Servicii de intermediere pentru repararea și întreținerea calculatoarelor, a articolelor personale și de uz gospodăresc, a autovehiculelor și motocicletelor"
+      },
+      {
+        "type": "1",
+        "code": "961",
+        "name": "Spălarea și curățarea articolelor textile și a produselor din blană"
+      },
+      {
+        "type": "1",
+        "code": "9610",
+        "name": "Spălarea și curățarea articolelor textile și a produselor din blană"
+      },
+      {
+        "type": "1",
+        "code": "962",
+        "name": "Coafură, activități de înfrumusețare, tratamente spa și alte activități similare"
+      },
+      {
+        "type": "1",
+        "code": "9621",
+        "name": "Activități de coafură și frizerie"
+      },
+      {
+        "type": "1",
+        "code": "9622",
+        "name": "Activități de tratament și înfrumusețare"
+      },
+      {
+        "type": "1",
+        "code": "9623",
+        "name": "Activități ale centrelor spa, saunelor și băilor de abur"
+      },
+      {
+        "type": "1",
+        "code": "963",
+        "name": "Activități de pompe funebre și similare"
+      },
+      {
+        "type": "1",
+        "code": "9630",
+        "name": "Activități de pompe funebre și similare"
+      },
+      {
+        "type": "1",
+        "code": "964",
+        "name": "Activități de intermediere pentru servicii personale"
+      },
+      {
+        "type": "1",
+        "code": "9640",
+        "name": "Activități de intermediere pentru servicii personale"
+      },
+      {
+        "type": "1",
+        "code": "969",
+        "name": "Alte servicii personale"
+      },
+      {
+        "type": "1",
+        "code": "9691",
+        "name": "Activități de servicii personale la domiciliu"
+      },
+      {
+        "type": "1",
+        "code": "9699",
+        "name": "Alte servicii personale n.c.a."
+      }
+    ]
+  },
+  {
+    "section": "U",
+    "name": "Activități ale gospodăriilor private în calitate de angajator de personal casnic; activități ale gospodăriilor private de producere de bunuri și servicii destinate consumului propriu",
+    "codes": [
+      {
+        "type": "1",
+        "code": "970",
+        "name": "Activități ale gospodăriilor private în calitate de angajator de personal casnic"
+      },
+      {
+        "type": "1",
+        "code": "9700",
+        "name": "Activități ale gospodăriilor private în calitate de angajator de personal casnic"
+      },
+      {
+        "type": "1",
+        "code": "981",
+        "name": "Activități ale gospodăriilor private de producere de bunuri destinate consumului propriu"
+      },
+      {
+        "type": "1",
+        "code": "9810",
+        "name": "Activități ale gospodăriilor private de producere de bunuri destinate consumului propriu"
+      },
+      {
+        "type": "1",
+        "code": "982",
+        "name": "Activități ale gospodăriilor private de producere de servicii pentru scopuri proprii"
+      },
+      {
+        "type": "1",
+        "code": "9820",
+        "name": "Activități ale gospodăriilor private de producere de servicii pentru scopuri proprii"
+      }
+    ]
+  },
+  {
+    "section": "V",
+    "name": "Activități ale organizațiilor și organismelor extrateritoriale",
+    "codes": [
+      {
+        "type": "1",
+        "code": "990",
+        "name": "Activități ale organizațiilor și organismelor extrateritoriale"
+      },
+      {
+        "type": "1",
+        "code": "9900",
+        "name": "Activități ale organizațiilor și organismelor extrateritoriale"
+      }
+    ]
+  }
+]
