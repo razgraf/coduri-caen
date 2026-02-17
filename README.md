@@ -2,12 +2,13 @@
 
 # Coduri CAEN Rev. 3
 
-Lista completă a codurilor CAEN pentru România, anul 2025, în format JSON. Lista a fost creată pe baza [caen.ro](https://caen.ro).
+Lista completă a codurilor CAEN pentru România, anul 2025, în format JSON / Markdown. Lista a fost creată pe baza [caen.ro](https://caen.ro).
 
-| Fișier                | Descriere                                             |
-| --------------------- | ----------------------------------------------------- |
-| `caen-rev3.json`      | Secțiuni, diviziuni, grupe și coduri                  |
-| `caen-rev3-flat.json` | Format simplificat (grupe și coduri pe același nivel) |
+| Fișier                | Descriere                                                            |
+| --------------------- | -------------------------------------------------------------------- |
+| `caen-rev3.json`      | Secțiuni, diviziuni, grupe și coduri                                 |
+| `caen-rev3-flat.json` | Format simplificat (grupe și coduri pe același nivel)                |
+| `caen-rev3.md`        | Format simplificat (cod / sectiune / nume in markdown, LLM friendly) |
 
 ### Alte resurse
 
